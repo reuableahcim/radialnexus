@@ -1,0 +1,340 @@
+latitude,longitude,name,species_code,scientific_name,common_name,height,diameter,information,location,island_abbv,island_name,base,tmk,circumference,id
+19.47,-154.97,"20,141,131",MEPO5,Metrosideros polymorpha,'Ohi'a Lehua,N/A,,No access due to current lava situation as of March 2015,"Kaneohe Homesteads, Pahoa",B,Hawaii,,15001056,N/A,1181
+19.72,-155.11,"20,141,125",MEPO5,Metrosideros polymorpha,'Ohi'a Lehua,25,11.5,Off of the path up to the waterfall.,"Rainbow Falls Park, Hilo",B,Hawaii,,230270001,,1177
+19.72,-155.09,"20,141,118",FIRE3,Ficus religiosa,Bodhi/Peepul Tree,70,114.6,,Old Riverside School,B,Hawaii,,23015001,30,1173
+19.66,-155.96,"20,141,139",SCPA,Schizolobium parahyba,Brazilian Fern,,,Unable to locate.,"Moeauoa 1, North Kona",B,Hawaii,,75001114,,1190
+19.72,-155.08,"20,141,141",TE4,Terminalia chebula,Chebulic Myrobalan,37.5,42,Downtown Hilo by the bus stop and police station,Kamehameha Avenue,B,Hawaii,,23001002,10.9,1192
+19.64,-156,"20,141,154",FIBE2,Ficus microcarpa,Chinese Banyan,56.5,N/A,"Along Kona's main tourist street. Part of the tree is inaccessible due to a generator, resulting in an inability to obtain the tree's diameter.",Kona,B,Hawaii,,75006012,N/A,1206
+19.72,-155.08,"20,141,111",CONU,Cocos nucifera,Coconut,30-76,12-14',,"Waiolama Canal, Hilo",B,Hawaii,,22004002,,1164
+19.73,-155.09,"20,141,108",CACO28,Caesalpinia coriaria,Divi-Divi,31.5,41,,Kalakaua Park,B,Hawaii,,23005001,10.8,1161
+20.23,-155.8,"20,141,181",ENCY,Enterolobium cyclocarpum,Earpod,59,129,,"Hawi, Hawaii",B,Hawaii,,,33.3,1233
+20.23,-155.8,"20,141,180",ENCY,Enterolobium cyclocarpum,Earpod,62.5,145.5,,"Hawi, Hawaii",B,Hawaii,,,36.8,1232
+19.72,-155.09,"20,141,140",TECA,Terminalia catappa,False Kamani,61.5,153,Tree is located on school property,Haili Street,B,Hawaii,,23012009,40,1191
+19.71,-155.07,"20,141,112",TADO2,Roseodendron donnell-smithii,Gold Tree,,,,Forestry Arboretum,B,Hawaii,,22701,,1167
+20.04,-155.44,"20,141,107",ANPL2,Antidesma platyphyllum,Hame,170,27,,Kalopa State Park,B,Hawaii,,44014001,7.1,1160
+19.73,-155.09,"20,141,115",FIBE2,Ficus benghalensis,Indian Banyan,78,233,,Kalakaua Park,B,Hawaii,,23005001,61,1170
+19.64,-155.99,"20,141,153",FIBE2,Ficus benghalensis,Indian Banyan,71.5,288,Located on the Hulihee Palace grounds.,,B,Hawaii,,75006012,75.5,1205
+19.72,-155.11,"20,141,182",FIBE2,Ficus benghalensis,Indian Banyan,,,,,B,Hawaii,,,,1234
+20.04,-155.44,"20,141,106",ACKO,Acacia koa,Koa,184,46,Grove of non-exceptional Koa in this area.,Kalopa State Park,B,Hawaii,,44014001,12,1159
+20.04,-155.44,"20,141,134",PSHA3,Psychotria hawaiiensis,Kopiko 'ula,42,10,,Kalopa State Park,B,Hawaii,,44014001,2.7,1184
+20.04,-155.44,"20,141,135",PSHA3,Psychotria hawaiiensis,Kopiko 'ula,84,41,,Kalopa State Park,B,Hawaii,,44014001,10.7,1185
+19.73,-155.09,"20,141,132",PRBE,Pritchardia beccariana,Loulu Palm,26,11,,Kalakaua Park,B,Hawaii,,23005001,,1182
+19.18,-155.78,"20,141,133",PRSC,Pritchardia schattaueri,Loulu Palm,N/A,,No access due to old lava flows and private property.,S. Kona,B,Hawaii,,89006004,N/A,1183
+19.52,-154.84,"20,141,121",MAIN,Mangifera sp.,Mango,68,30.5,,Government Beach Road/Hawaiian Beaches,B,Hawaii,,143,8,1176
+19.47,-154.86,"20,141,120",MAIN,Mangifera indica,Mango,36.5,39,,Pohoiki Road,B,Hawaii,,N/A,10.1,1175
+19.72,-155.08,"20,141,137",ALSA,Albizia saman,Monkeypod,29.5-44,62.5-81,,Kamehameha Ave. and Pauahi St.,B,Hawaii,,22004035,,1187
+19.72,-155.07,"20,141,136",ALSA,Albizia saman,Monkeypod,49.5,76,Tree near harbor by Suisan Building,85 Lihiwai Street,B,Hawaii,,21003027,,1186
+19.72,-155.08,"20,141,179",ALSA,Albizia Saman,Monkeypod,41-53,38-71,,,B,Hawaii,,,,1228
+19.64,-156,"20,141,117",FIMA1,Ficus macrophylla,Moreton Bay Fig,68,99.7,Incredible tree located on the main street in Kona.,"Portion of Kailua Village, North Kona",B,Hawaii,,75006012,26.1,1172
+19.42,-155.24,"20,141,152",MEPO5,Metrosideros polymorpha,Ohi`a Lehua,69.9,38,Nomination Needed. Unique white bark and orange blossoms.,"Volcano, Hawaii",B,Hawaii,,,10,1204
+20.04,-155.44,"20,141,150",MEPO5,Metrosideros polymorpha,Ohi`a Lehua,87,55,Located on a trail near the park's main restrooms.,,B,Hawaii,,44014001,14.4,1202
+20.04,-155.44,"20,141,151",MEPO5,Metrosideros polymorpha,Ohi`a Lehua,74,48,Located on a trail near the park's main restrooms.,,B,Hawaii,,44014001,12.6,1203
+19.49,-155.92,"20,141,109",CAOV7,Canarium sp.,Pili Nut,N/A,N/A,Private Property. Unable to gain access.,S. Kona,B,Hawaii,,81009001,N/A,1162
+19.98,-155.23,"20,141,114",FABE,Fagraea berteroana,Pua Kenikeni,25.5,31,Located next to the local police station.,Laupahoehoe Police Station,B,Hawaii,,36009031,8.11,1169
+19.72,-155.12,"20,141,119",GARE,Gardenia remyi,Remy's Gardenia,N/A,,"No tree, new road being built",Waianuenue Ave.,B,Hawaii,,23030002,N/A,1174
+19.72,-155.09,"20,141,113",EUUN2,Eugenia uniflora,Surinam Cherry,14.5,N/A,On church property facing the main road. Many minor stems. No DSH available.,Waianuenue Avenue,B,Hawaii,,23014007,,1168
+19.49,-155.92,"20,141,110",CISI,Citrus sinensis,Valencia Orange,N/A,N/A,Unable to access. On private property.,"Kaawaloa, South Kona",B,Hawaii,,81009001,N/A,1163
+19.72,-155.08,"20,141,116",FIBE,Ficus benjamina,Weeping Fig,38.5,68,By DLNR office and arboretum,Kilauea Ave.,B,Hawaii,,22027001,17.8,1171
+19.87,-155.11,"20,141,240",FIBE2,Ficus benjamina,Weeping Fig,,,,,B,Hawaii,,,,1236
+19.87,-155.11,"20,141,183",FIBE2,Ficus benjamina,Weeping Fig,,,,,B,Hawaii,,,,1235
+21.9,-159.47,"20,141,074",ADDI3,Adasonia sp.,Baobab,N/A,N/A,Behind church next to small home.,Behind the Koloa Missionary Church yard near the southeast corner;TMK: 2-8-10-1,K,Kilauea,,28010001,N/A,1121
+22.21,-159.41,"20,141,078",ARAL2,Artocarpus incisus,Breadfruit,28,29.8,Left-side of school property.,On the grounds of Kilauea Elementary School; (1991)TMK: 5-2-09:6,K,Kilauea,,52009006,7.8,1127
+21.96,-159.36,"20,141,093",FIMIHI,Ficus microcarpa,Chinese Banyan,38,82.5,Behind fence off school property.,"At Nawiliwili north of Highway 501 on the hillside south of Kaua�㕢��_�_��_�_i High School, at Menehune Gardens; TMK: 3-2-05-8 and 3-2-05-17",K,Kilauea,,32005008,21.6,1145
+22.06,-159.32,"20,141,080",CONU,Cocos nucifera,Coconut,68-80,11.5-17.2,Huge grove on both sides of Kuhio Hwy.,"The grove extends both makai and mauka of Highway 56 (Kuhio Highway) at Waipouli;TMK: 4-3-6-2, 4-3-7-27, 28, and 29",K,Kilauea,,43006002,3-4.5,1129
+21.9,-159.47,"20,141,086",ENCY,Enterolobium cyclocarpum,Earpod,54,91,In the Borthwick Funerals parking lot.,"In Koloa along Po�㕢��_�_��_�_ipu Road in front of the Kaua�㕢��_�_��_�_i Mortuary, Inc.;TMK: 2-8-10-15",K,Kilauea,,28010045,23.8,1137
+21.98,-159.37,"20,141,103",TECA,Terminalia catappa,False Kamani,48,85,Hilo Hattie Parking Lot,"Along Ahukini Road (north side) about 75 yards East of K��_�_�_�_hi��_�_�_�� Highway, near the Southeast corner of Ala Moana Bowling Alley; TMK: 3-6-06 and 3-7-01-1",K,Kilauea,,36006999,22.3,1156
+22.22,-159.56,"20,141,105",TECA,Terminalia catappa,False Kamani,,,,Along Kuhio Highway in Ha�㕢��_�_��_�_ena on TMK: 5-09-05:2 (1990) approximately 80 feet mauka of the highway,K,Kilauea,,59005002,,1158
+22.14,-159.66,"20,141,095",GIBI,Ginkgo biloba,Ginkgo,N/A,N/A,Unable to locate. Trail closed.,Kokee State Park on Kaunuoha Ridge near the Kokee Road;TMK: 1-4-01-13 and Por. Tax Key 1-4-01,K,Kilauea,,14001013,N/A,1147
+21.95,-159.37,"20,141,090",FIBE2,Ficus benghalensis,Indian Banyan,64,249,Enormous canopy. Located off of Hulemalu Rd,"Approximately 84 feet east of Hulemanu Road in Niumalu, on the western boundary of TMK: 3-2-02:26. A portion of the tree is located within, and the remainder of the tree is located within TMK: 3-2-02:02",K,Kilauea,,32002026,65.2,1142
+22.2,-159.5,"20,141,079",CAIN4,Calophyllum inophyllum,Kamani,N/A,N/A,Owner did not allow data to be collected for this tree.,In Hanalei near the Waioli Mission House. There are two Kamani trees behind the white picket fence and in front of the Mission House. K-11 is the tree located northeast of the house;TMK: 5-5-06-8,K,Kilauea,,55006008,N/A,1128
+22.1,-159.68,"20,141,076",ALPO3,Alphitonia ponderosa,Kauila,N/A,N/A,Unable to locate. Trail closed or no longer in use.,"779 Kokee Rd - Waimea Canyon State Park, at eastern end of Kauhao Ridge, just north-west of Kokee Ditch gaging station, 3,300 feet elevation;TMK: 1-4-01:3",K,Kilauea,,14001003,N/A,1123
+21.97,-159.37,"20,141,085",DUZI,Durio zibethinus,King Kalakaua's Durian,74,57.3,"Located on Grove Farm Museum property. Should be a grove of four trees, not a single exceptional tree.",On the Grove Farm Homestead grounds among other interesting trees planted by G.N. Wilcox near Highway 501 at Ukukukui;TMK: 3-6-01-2,K,Kilauea,,36001002,15,1136
+21.96,-159.67,"20,141,097",ALSA,Albizia saman,Monkeypod,68,107,Beside Waimea Canyon Middle School,In Waimea in front of the historical Gulick-Towell home;TMK: 1-2-06-34,K,Kilauea,,12006034,28,1148
+21.9,-159.47,"20,141,098",ALSA,Albizia saman,Monkeypod,44,86.8,Beside Yamamoto Store and Waikomo Stream.,In Koloa behind old Yamamoto Store next to river;TMK: 2-8-07-16,K,Kilauea,,28007016,22.7,1149
+21.91,-159.46,"20,141,099",ALSA,Albizia saman,Monkeypod,39.5,61.1,,In Old Koloa Town;TMK: 2-8-004:053,K,Kilauea,,28004053,16,1150
+21.91,-159.46,"20,141,100",ALSA,Albizia saman,Monkeypod,42,61.5,In school parking lot.,"In Old Koloa Town, Honpa Hongwanji Mission and Koloa Early School;TMK: 2-8-004:056",K,Kilauea,,28004056,16.1,1151
+21.91,-159.46,"20,141,101",ALSA,Albizia saman,Monkeypod,40,57.3,,"In Old Koloa Town, Honpa Hongwanji Mission and Koloa Early School;TMK: 2-8-004:056",K,Kilauea,,28004056,15,1152
+22.21,-159.41,"20,141,091",FIMA1,Ficus macrophylla,Moreton Bay Fig,37.5,70.3,North-side entrance.,The two trees flank the two entrances into Kilauea School; (1991)TMK: 5-2-09:6,K,Kilauea,,52009006,18.4,1143
+22.21,-159.41,"20,141,092",FIMA1,Ficus macrophylla,Moreton Bay Fig,49,72.6,South-side entrance.,The two trees flank the two entrances into Kilauea School; (1991)TMK: 5-2-09:6,K,Kilauea,,52009006,19,1144
+21.95,-159.42,"20,141,077",ARHE,Araucaria sp.,Norfolk Island Pine,122-171,36.7-53.5,Private Property. No accessible to the public. Enormous Trees.,Begins at the end of the Kipu County Road and extends 3/4 of a mile along the Kipu Ranch driveway;TMK: 3-1-03-1,K,Kilauea,,31003001,9.6-14,1124
+22.2,-159.39,"20,141,084",DERE,Delonix regia,Royal Poinciana,N/A,N/A,Unable to locate due to the tree being on private property.,In Kilauea on the grounds of the Mary N. Lucas Trust Estate; (1991) TMK: 5-2-21:22,K,Kilauea,,52021002,N/A,1135
+21.97,-159.66,"20,141,075",ALLE,Albizia lebbeck,Siris,47,82.2,Located just off of Gay Rd,In Waimea Valley on the Gay� Estate grounds at the end of Gay Road (also known as Oli Oli Road); TMK: 1-6-01-29,K,Kilauea,,16001029,21.5,1122
+21.94,-159.47,"20,141,087",EURO,Eucalyptus robusta,Swamp Mahogany,51-78,25.6-37.8,"Makes up the well known ""Tree Tunnel"" along Maluhia Rd.",Along both sides of Maluhia Road extending 3/4 of a mile southward from Knudsen Gap;TMK: 2-7-02-1 and 2-8-01-5,K,Kilauea,,27002001,6.7-9.9,1138
+21.96,-159.37,"20,141,102",TEGR,Tectona grandis,Teak,22-28,12.6-18.7,Three teaks in the garden along the center of the street.,"In Lihue, on Nokekula Circle, off Nawiliwili Road;",K,Kilauea,,36021999,3.3-4.9,1153
+20.84,-156.92,"20,141,145",ARHE,Araucaria heterophylla,Norfolk Pine,168,81,Planted in 1875.,Ko'ele Golf Course,L,Lanai,,,21.2,1195
+20.63,-156.38,"20,140,981",POSA11,Pouteria sandwicensis,'Ala'a,32,19.5,Planted in 1953,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,5.6,1026
+20.63,-156.38,"20,140,978",TEHA2,Tetraplasadra hawaiiensis,'ohe,50,31,Planted in 1953,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,31,1023
+20.63,-156.38,"20,140,979",TEHA2,Tetraplasadra hawaiiensis,'ohe,52.5,42,Planted in 1953,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,11.1,1024
+20.63,-156.38,"20,140,980",MEKN,Melicope knudsenii,Alani,26,14.5,Planted in 1953,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,3.8,1025
+20.86,-156.32,"20,141,230",JU,Juniperus bermudiana,Bermuda Juniper,,,,3146 Baldwin Avenue,M,Maui,,2-4-002-014,,1285
+20.87,-156.68,"20,140,950",ARAL2,Artocarpus altilis,Breadfruit,48,38.6,Baldwin House parking lot.,Baldwin House,M,Maui,,246008007,10.1,993
+20.87,-156.67,"20,140,953",WAFI,Washingtonia filifera,California Featherduster Palm,40,23,Data obtained from Maui County. All trees at this location were unable to be observed as the area was closed for a private event.,Hale Paahao,M,Maui,,246008044,6,996
+20.78,-156.32,"20,141,070",SCMO,Schinus molle,California Pepper Tree,50,53,On ranch property. Unable to access tree. Data obtained from Maui County.,"406 Lower Kimo Drive, Kula",M,Maui,,223015020,13.9,1117
+20.89,-156.5,"20,140,945",FIMIHI,Ficus microcarpa,Chinese Banyan,53,137,South side of Wailuku Civil Center.,Kalana Pakui Building,M,Maui,,234008042,35.9,988
+20.87,-156.68,"20,140,949",FIBE2,Ficus benghalensis,Indian Banyan,56.5,150.6,"Amazing, sprawling Banyan.",Lahaina Courthouse Square,M,Maui,,246001009,39.4,992
+20.86,-156.32,"20,141,229",FIEL,Ficus elastica,Indian Rubber Tree,,,,3145 Baldwin Avenue,M,Maui,,2-4-002-014,,1284
+20.83,-156.31,"20,141,071",JAMI,Jacaranda mimosifolia,Jacaranda,60,63.6,Data obtained from Maui County.,165 Hanamu Road,M,Maui,,224010001,16.6,1118
+20.89,-156.66,"20,140,977",CAIN4,Calophyllum inophyllum,Kamani,60,68.8,Located on the north side of the museum on the HS campus.,"Lahainaluna High School, the oldest post-secondary school west of the Rocky Mountains.",M,Maui,,246018012,18,1022
+20.75,-155.98,"20,141,073",CAIN4,Calophyllum inophyllum,Kamani,64,79.5,Front right side of the Hana Community Center.,Old Hana School,M,Maui,,214004030,20.8,1120
+20.79,-156.57,"20,141,072",PRPA2,Prosopis pallida,Kiawe,30,102,Data obtained from Maui County.,"Honoapiilani Highway, near Mile Marker 11 oceanside",M,Maui,,236001013,26.6,1119
+20.87,-156.68,"20,140,951",COSU2,Cordia subcordata,Kou,38,50,Infront of the Baldwin House.,Baldwin House,M,Maui,,246008007,13.1,994
+20.63,-156.38,"20,140,982",PRFO,Pritchardia forbesiana,Loulu,27,8,Planted in 1952,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,2.1,1027
+20.87,-156.67,"20,140,954",WARO,Washingtonia robusta,Mexican Fan Palm,55,16,Data obtained from Maui County.,Hale Paahao,M,Maui,,246008044,4.2,997
+20.89,-156.5,"20,140,946",ALSA,Albizia saman,Monkeypod,36,104,Extremely large and extensive root system.,Ka'ahumanu Church,M,Maui,,234014002,27.4,989
+20.87,-156.67,"20,140,952",ALSA,Albizia saman,Monkeypod,60,69,Data obtained from Maui County.,Hale Paahao,M,Maui,,246008044,18,995
+20.89,-156.51,"20,140,948",ALSA,Albizia saman,Monkeypod,50,57,Data obtained from Maui County.,Wailuku Sugar Plantation Manager's Home,M,Maui,,234014060,14.9,991
+20.76,-156.46,"20,141,228",ALSA,Albizia Saman,Monkeypod,N/A,N/A,,940 South Kihei Road,M,Maui,,3-9-001-006,,1283
+20.83,-156.32,"20,141,231",MEPO5,Metrosideros polymorpha,Ohia Lehua,,,,"Waikamoi Preserve, Haleakala Ranch",M,Maui,,2-3-05-004,,1286
+20.63,-156.38,"20,140,984",AFFA,Afrocarpus falcatus,Podocarpus,63,66,,"D.T. Fleming Arboretum at Pu'u Mahoe, Kanaio",M,Maui,,221009017,17.3,1029
+20.9,-156.37,"20,140,985",CANE33,Cassia x nealiae,Rainbow Shower,18-28,11.5-30,Extends over 6 miles.,A 6.7 mile stretch of Baldwin Avenue starting at 0.5 miles from intersection with Hana Highway in Paia and ending below 'Ala'a Place in Makawao.[5],M,Maui,,N/A,8-Mar,1030
+20.88,-156.51,"20,140,922",RORE,Roystonea regia,Royal Palm,49.5-54,13.4-18,In the front yard of Wailuku ES.,Wailuku Elementary School,M,Maui,,234007001,3.5-4.7,963
+20.87,-156.67,"20,140,955",RORE,Roystonea regia,Royal Palm,50,22,Data obtained from Maui County.,Hale Paahao,M,Maui,,246008044,5.75,998
+20.89,-156.66,"20,140,956",RORE,Roystonea regia,Royal Palm,32-56,8.7-21.8,Along Lahaina HS main road.,"Entrance to Lahainaluna High School, the oldest post-secondary school west of the Rocky Mountains.",M,Maui,,246018005,2.3-5.7,999
+20.89,-156.51,"20,140,947",HYCO,Hymenaea courbaril,West Indian Locust,75,39,Data obtained from Maui County.,Wailuku Sugar Plantation Manager's Home,M,Maui,,234014060,10.2,990
+21.09,-157.02,"20,140,920",FI1,Ficus sp.,Banyan,60.5,221,Located next to the shoreline.,Former Pau Hana Inn,MO,Moloka`i,,53006028,58,961
+21.1,-157.04,"20,141,146",CONU,Cocos nucifera,Coconut Palm,31-92.5,11.8-15.7,Amazing grove.,Kapuaiwa Grove,MO,Moloka`i,,,3.1-4.1,1196
+21.16,-156.74,"20,141,147",CAIN4,Calophyllum inophyllum,Kamani,N/A,N/A,Flash floods and private property prevented data from being collected for this nominee.,Halawa Valley,MO,Moloka`i,,,N/A,1199
+21.16,-157.01,"20,141,149",ARHE,Araucaria heterophylla,Norfolk Pine,126,31,,"50 Nanikai Pl Ho'olehua, Hawaii",MO,Moloka`i,,,8.1,1201
+21.63,-158.05,"20,141,178",RESA,Reynoldsia sandwicensis,'ohe makai,47,17,,,O,Oahu,,,4.6,1227
+21.48,-158.04,"20,140,021",ALPR,Albizia procera,Albizia,82,36,,"Wheeler Army Airfield, Wright Ave.Corner of Wright Ave. and Langley Lp. by Qtrs 534 and in fror t of Bldg 102",O,Oahu,Wheeler,77001001,,22
+21.48,-158.04,"20,140,022",ALPR,Albizia procera,Albizia,95,47.5,,"Wheeler Army Airfield, Wright Ave.Corner of Wright Ave. and Langley Lp. by Qtrs 534 and in fror t of Bldg 102",O,Oahu,Wheeler,77001001,,23
+21.48,-158.04,"20,140,023",ALPR,Albizia procera,Albizia,N/A,N/A,,"Wheeler Army Airfield, Wright Ave.Corner of Wright Ave. and Langley Lp. by Qtrs 534 and in fror t of Bldg 102",O,Oahu,Wheeler,77001001,,24
+21.48,-158.04,"20,140,024",ALPR,Albizia procera,Albizia,82,36,,"Wheeler Army Airfield, Wright Ave.Corner of Wright Ave. and Langley Lp. by Qtrs 534 and in fror t of Bldg 102",O,Oahu,Wheeler,77001001,,25
+21.3,-157.82,"20,140,886",BEL OTHER,Wallaceodendron celebicum,Banuyo,31,53.5,Characteristic seed pods present,"University of Hawaii, Sinclair Library Area",O,Oahu,,28023003,14,923
+21.33,-157.84,"20,140,490",FI1,Ficus sp.,Banyan,68,130,,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,34.1,505
+21.29,-157.85,"20,141,203",FI1,Ficus sp.,Banyan,26,30,,Ala Moana Beach Park,O,Oahu,,,,1256
+21.29,-157.85,"20,141,204",FI1,Ficus sp.,Banyan,38,117,,Ala Moana Beach Park,O,Oahu,,,,1257
+21.31,-157.86,"20,141,160",FI1,Ficus sp,Banyan,N/A,N/A,Located on Washington Place property. Could not gain access to gather data.,Washington Place,O,Oahu,,2-1-018:001,N/A,1212
+21.29,-157.85,"20,141,192",FI1,Ficus sp.,Banyan,46,70,,Ala Moana Beach Park,O,Oahu,,,,1245
+21.29,-157.85,"20,141,190",FI1,Ficus sp.,Banyan,N/A,N/A,,Ala Moana Beach Park,O,Oahu,,,,1243
+21.29,-157.85,"20,141,191",FI1,Ficus sp.,Banyan,43.5,95.5,,Ala Moana Beach Park,O,Oahu,,,,1244
+21.29,-157.85,"20,141,184",FI1,Ficus sp.,Banyan,27,36,,Ala Moana Beach Park,O,Oahu,,,,1237
+21.29,-157.85,"20,141,186",FI1,Ficus sp.,Banyan,27.5,65,,Ala Moana Beach Park,O,Oahu,,,,1239
+21.29,-157.85,"20,141,195",FI1,Ficus sp.,Banyan,32,39,,Ala Moana Beach Park,O,Oahu,,,,1248
+21.29,-157.85,"20,141,196",FI1,Ficus sp.,Banyan,30,51,,Ala Moana Beach Park,O,Oahu,,,,1249
+21.29,-157.85,"20,141,199",FI1,Ficus sp.,Banyan,26.5,153,,Ala Moana Beach Park,O,Oahu,,,,1252
+21.29,-157.85,"20,141,188",FI1,Ficus sp.,Banyan,28,32,,Ala Moana Beach Park,O,Oahu,,,,1241
+21.29,-157.85,"20,141,197",FI1,Ficus sp.,Banyan,24,49,,Ala Moana Beach Park,O,Oahu,,,,1250
+21.29,-157.85,"20,141,187",FI1,Ficus sp.,Banyan,28.5,49.5,,Ala Moana Beach Park,O,Oahu,,,,1240
+21.29,-157.85,"20,141,198",FI1,Ficus sp.,Banyan,39,252,,Ala Moana Beach Park,O,Oahu,,,,1251
+21.29,-157.85,"20,141,193",FI1,Ficus sp.,Banyan,37.5,150.5,,Ala Moana Beach Park,O,Oahu,,,,1246
+21.29,-157.85,"20,141,194",FI1,Ficus sp.,Banyan,26.5,55,,Ala Moana Beach Park,O,Oahu,,,,1247
+21.29,-157.85,"20,141,189",FI1,Ficus sp.,Banyan,62,304,,Ala Moana Beach Park,O,Oahu,,,,1242
+21.29,-157.85,"20,141,185",FI1,Ficus sp.,Banyan,31.5,66,,Ala Moana Beach Park,O,Oahu,,,,1238
+21.29,-157.85,"20,141,202",FI1,Ficus sp.,Banyan,N/A,65,,Ala Moana Beach Park,O,Oahu,,,,1255
+21.29,-157.85,"20,141,200",FI1,Ficus sp.,Banyan,N/A,145,,Ala Moana Beach Park,O,Oahu,,,,1253
+21.29,-157.85,"20,141,201",FI1,Ficus sp.,Banyan,N/A,107,,Ala Moana Beach Park,O,Oahu,,,,1254
+21.29,-157.85,"20,141,205",FI1,Ficus sp.,Banyan,30,19,,Ala Moana Beach Park,O,Oahu,,,,1258
+21.29,-157.85,"20,141,206",FI1,Ficus sp.,Banyan,27.5,31,,Ala Moana Beach Park,O,Oahu,,,,1259
+21.29,-157.85,"20,141,208",FI1,Ficus sp.,Banyan,28,24,,Ala Moana Beach Park,O,Oahu,,,,1261
+21.29,-157.85,"20,141,209",FI1,Ficus sp.,Banyan,41.5,96,,Ala Moana Beach Park,O,Oahu,,,,1262
+21.29,-157.85,"20,141,210",FI1,Ficus sp.,Banyan,26,41,,Ala Moana Beach Park,O,Oahu,,,,1263
+21.29,-157.84,"20,141,212",FI1,Ficus sp.,Banyan,36.5,44,,Ala Moana Beach Park,O,Oahu,,,,1265
+21.29,-157.85,"20,141,211",FI1,Ficus sp.,Banyan,28,38.5,,Ala Moana Beach Park,O,Oahu,,,,1264
+21.29,-157.85,"20,141,207",FI1,Ficus sp.,Banyan,23.5,27,,Ala Moana Beach Park,O,Oahu,,,,1260
+21.29,-157.84,"20,141,214",FI1,Ficus sp.,Banyan,17,37.5,,Ala Moana Beach Park,O,Oahu,,,,1267
+21.29,-157.84,"20,141,216",FI1,Ficus sp.,Banyan,42,72.5,,Ala Moana Beach Park,O,Oahu,,,,1269
+21.29,-157.84,"20,141,215",FI1,Ficus sp.,Banyan,35,65,,Ala Moana Beach Park,O,Oahu,,,,1268
+21.29,-157.84,"20,141,213",FI1,Ficus sp.,Banyan,37,289,,Ala Moana Beach Park,O,Oahu,,,,1266
+21.29,-157.84,"20,141,217",FI1,Ficus sp.,Banyan,26.5,35,,Ala Moana Beach Park,O,Oahu,,,,1270
+21.29,-157.84,"20,141,221",FI1,Ficus sp.,Banyan,47.5,181,,Ala Moana Beach Park,O,Oahu,,,,1274
+21.29,-157.84,"20,141,218",FI1,Ficus sp.,Banyan,46,47,,Ala Moana Beach Park,O,Oahu,,,,1271
+21.29,-157.84,"20,141,222",FI1,Ficus sp.,Banyan,46.5,177,,Ala Moana Beach Park,O,Oahu,,,,1275
+21.29,-157.84,"20,141,219",FI1,Ficus sp.,Banyan,46,71,,Ala Moana Beach Park,O,Oahu,,,,1272
+21.29,-157.84,"20,141,220",FI1,Ficus sp.,Banyan,58,221.5,,Ala Moana Beach Park,O,Oahu,,,,1273
+21.31,-157.85,"20,140,003",ADDI3,Adansonia digitata,Baobab,54.5,147.9,Plaque Present.,"Queen's Medical Center, 1301 Punchbowl St.",O,Oahu,,21035003,38.7,2
+21.32,-157.86,"20,140,002",ADDI3,Adansonia digitata,Baobab,66,162.8,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,42.6,1
+21.29,-157.85,"20,140,004",ADDI3,Adansonia digitata,Baobab,32.5-36,52-112,Located along the river,Ala Moana Beach Park,O,Oahu,,23037001,13.7-29.4,3
+21.3,-157.82,,ADDI3,Adansonia digitata,Baobab,N/A,N/A,,UHM campus near Art building,O,Oahu,,,,1294
+21.31,-157.83,"20,140,405",FI1,Ficus petiolaris,Blue Mexican Fig,31.5,87.9,Private Property. No Plaque.,1941 Ualakaa St. (Manoa),O,Oahu,,25001033,23,419
+21.33,-157.84,"20,140,408",FIRE3,Ficus religiosa,Bodhi/Peepul Tree,54,88,85 Years old.,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,23.2,421
+21.32,-157.86,"20,140,407",FIRE3,Ficus religiosa,Bodhi/Peepul Tree,50.5,91.3,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,23.9,420
+21.35,-157.89,"20,140,848",FIRE3,Ficus religiosa,Bodhi/Peepul Tree,61,187.7,Access is across the steam.,"Moanalua Gardens, 1352 Pineapple Pl.",O,Oahu,,11009004,49.11,882
+21.33,-157.84,"20,140,065",BDL OTHER,Bertholletia excelsa,Brazil Nut,40.5,36,Over 60 years old,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,,68
+21.35,-157.76,"20,140,063",ARAL2,Artocarpus altilis,Breadfruit,N/A,N/A,"Off path, in the jungle. Not accessible.","Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,420090001,N/A,66
+21.36,-157.76,"20,140,025",ARBI,Araucaria bidwillii,Bunya-bunya,45,38,,"Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,10,26
+21.49,-158.05,"20,140,661",RO9,Roystonea oleracea,Cabbage Palm,50-75,21.5-26.5,,"Schofield Barracks, Flagler Rd., west of bldg.360",O,Oahu,Schofield,77001001,,681
+21.49,-158.05,"20,140,674",RO9,Roystonea oleracea,Cabbage Palm,82,27.5,,"Schoffield Barracks, 227 General Loop",O,Oahu,Schofield,77001001,,698
+21.51,-158.01,"20,140,801",RORE,Roystonea regia,Cabbage Palm,N/A,N/A,,"Royal Palm Dr., Wahiawa",O,Oahu,,75018012,,833
+21.49,-158.05,"20,140,675",RO9,Roystonea oleracea,Cabbage Palm,81,28.5,,"Schoffield Barracks, 227 General Loop",O,Oahu,Schofield,77001001,,699
+21.32,-157.86,"20,140,111",COGU3,Couroupita guianensis,Cannonball Tree,95,N/A,Tree surrounded by other vegetation making obtaining the circumference impossible.,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,N/A,118
+21.3,-157.82,"20,140,112",COGU3,Couroupita guianensis,Cannonball Tree,59,39.4,Planted by: Thornton Wilder- Pulitzer Prize Winner.,"University of Hawaii - Manoa, Sinclair Library",O,Oahu,,28023003,10.3,119
+21.49,-158.06,"20,140,099",CA30,Capparis mollicella,Capparis,18,13,DSH measured at 3 ft.,"Schofield Barracks, Ulrich St, S. of bldg. 2105",O,Oahu,Schofield,77001001,,104
+21.34,-157.81,"20,140,673",RO9,Roystonea oleracea,Caribbean Royal Palm,111-116,25.8-26.2,Amazing grove of all large palms. Near marker 1H.,"Harold L. Lyon Arboretum, 3860 Manoa Rd.",O,Oahu,,29055006,6.9-6.11',695
+21.32,-157.86,"20,140,577",BDM OTHER,Hydnocarpus anthelminthica,Chaulmoogra Oil,44,37.5,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,9.8,594
+21.32,-157.86,"20,140,593",MAZA,Manilkara zapota,Chicle,77,40,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,10.45,610
+21.33,-157.84,"20,140,594",MAZA,Manilkara zapota,Chicle,41,36,Roughly 100 years old. One of the oldest Chicle trees in the islands.,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,,611
+21.39,-157.74,"20,140,401",FIMIHI,Ficus microcarpa,Chinese Banyan,23.5,47.4,Downtown Kailua,Kailua Road 'Triange Park',O,Oahu,,42018014,12.4,415
+21.29,-157.84,"20,140,486",FI1,Ficus sp.,Chinese Banyan,,,,Ala Wai Canal,O,Oahu,,23035011,,499
+21.39,-157.74,"20,140,400",FIMIHI,Ficus microcarpa,Chinese Banyan,52,104,Downtown Kailua,Kailua Road 'Triange Park',O,Oahu,,42018014,25.11,414
+21.39,-157.74,"20,140,402",FIMIHI,Ficus microcarpa,Chinese Banyan,34.5,32.5,Downtown Kailua,Kailua Road 'Triange Park',O,Oahu,,42018014,8.5,416
+21.34,-157.84,"20,141,155",FIMIHI,Ficus microcarpa,Chinese Banyan,76,167,Palm growing halfway up out of the Banyan. Appears to be very old.,Nuuanu Park,O,Oahu,,,43.7,1207
+21.5,-158.01,"20,141,234",FIMIHI,Ficus microcarpa,Chinese Banyan,73,140,,"1699 Walea Street, Wahiawa, Hawaii, 96786",O,Oahu,,,,1288
+21.26,-157.8,"20,141,227",FIMIHI,Ficus microcarpa,Chinese Banyan,55,N/A,Unable to obtain diameter due to a fence at the base of the trunk.,Kahala,O,Oahu,,3-1-040:061,,1282
+21.49,-158.03,"20,140,640",PHCA,Phoenix canariensis,Date Palm,32-42,23.5-28,,Wheeler Army Airfield Wright Ave.,O,Oahu,Wheeler,77001001,,659
+21.32,-157.86,"20,140,578",PEL OTHER,Hyphaene thebaica,Doum Palm,45,16.1,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,4.2,595
+21.31,-157.83,"20,140,117",ENCY,Enterolobium cyclocarpum,Earpod,65,95.5,Accessible to the public,"Board of Water Supply, Makiki Pumping Station",O,Oahu,,25020001,25,124
+21.31,-157.82,"20,140,118",ENCY,Enterolobium cyclocarpum,Earpod,60,90,,2020 Kamehameha Ave. (Manoa),O,Oahu,,29007015,23.5,125
+21.57,-158.12,"20,140,119",ENCY,Enterolobium cyclocarpum,Earpod,64,87.1,In the Aloha Gas Station/Library parking lot,"67-068 Kealohanui St., Waialua Library",O,Oahu,,67016002,22.8,126
+21.49,-158.05,"20,140,122",ENCY,Enterolobium cyclocarpum,Earpod,55-70,17-22,,"Schofield Barracks, Baldwin to Morris Rds.",O,Oahu,Schofield,77001001,,129
+21.5,-158.06,"20,140,120",ENCY,Enterolobium cyclocarpum,Earpod,82,122,,"Schofield Barracks, Bragg St.,100' from Ayres Ave.",O,Oahu,Schofield,77001001,,127
+21.31,-157.81,"20,141,223",ENCY,Enterolobium cyclocarpum,Earpod,58.5,N/A,Permission not granted to go on property to collect diameter,Manoa,O,Oahu,,2-9-014:069,,1276
+21.31,-157.81,"20,141,224",ENCY,Enterolobium cyclocarpum,Earpod,55.5,N/A,Permission not granted to go on property to collect diameter,Manoa,O,Oahu,,2-9-014:069,,1277
+21.32,-157.86,"20,140,885",TECA,Terminalia catappa,False Kamani,57.5,48.2,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,12.6,922
+21.32,-157.86,"20,140,114",ELOR2,Elaeodendron orientale,False Olive,48.5,26.4,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,6.9,121
+21.29,-157.85,"20,140,066",BUBU,Bucida buceras,Geometry Tree,47,40,,Ala Moana Beach Park,O,Oahu,,23037001,10.5,69
+21.49,-158.06,"20,140,067",BUBU,Bucida buceras,Geometry Tree,55,34,,"Schofield Barracks, Sargent Rd., bldg. T-695",O,Oahu,,77001001,,70
+21.32,-157.86,"20,140,572",BEM OTHER,Gigasiphon macrosiphon,Gigasiphon,50,21.8,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,5.7,589
+21.3,-157.82,"20,140,660",TADO2,Roseodendron donnell-smithii,Gold Tree,N/A,N/A,Access Not Granted for Data Collection.,2119 Kaloa Way,O,Oahu,,28020040,N/A,680
+21.48,-158.05,"20,140,017",AL1,Albizia guachapele,Guachapele,57,61,,"Schofield Barracks, Wright Ave.",O,Oahu,Schofield,77001001,,18
+21.48,-158.05,"20,140,019",AL1,Albizia guachapele,Guachapele,55,39,,"Schofield Barracks, Wright Ave.",O,Oahu,Schofield,77001001,,20
+21.48,-158.05,"20,140,018",AL1,Albizia guachapele,Guachapele,70,53,,"Schofield Barracks, Wright Ave.",O,Oahu,Schofield,77001001,,19
+21.49,-158.06,"20,140,020",AL1,Albizia niopoides,Guachapele,90,51,,"Schofield Barracks, Sargent Rd., next to parking lot",O,Oahu,Schofield,77001001,,21
+21.32,-157.86,"20,140,586",LODO5,Lonchocarpus domingensis,Guana,83,50.4,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,13.2,603
+21.32,-157.81,"20,140,575",HITI,Hibiscus tiliaceus,Hau,N/A,N/A,In backyard of private property. Not accessible.,3314 Halelani Dr. (Manoa),O,Oahu,,29035103,N/A,592
+21.32,-157.86,"20,140,865",SPMO,Spondias mombin,Hog Plum,82.5,42.4,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,11.1,900
+21.33,-157.81,"20,140,027",ARCU1,Araucaria cunninghamii,Hoop Pine,72,47,Near marker 1L,"Harold L. Lyon Arboretum, 3860 Manoa Rd.",O,Oahu,,29005006,12.3,28
+21.36,-157.76,"20,140,029",ARCU1,Araucaria cunninghamii,Hoop Pine,77,77,http://tocexceptionaltreemap.weebly.com/uploads/4/7/7/5/47757377/7872698.jpg,"Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,20.1,30
+21.3,-157.82,"20,140,064",BAAS,Barringtonia asiatica,Hutu,29,43.2,Access to vast quantities of water as a result of being along the University Mall has led to such a pristine condition.,University of hawaii; Bilger Hall/McCarthy Mall,O,Oahu,,28023003,11.3,67
+21.32,-157.87,"20,140,372",FIBE2,Ficus benghalensis,Indian Banyan,64.5,N/A,On school property. Could not obtain circumference due to lack of permission to enter school grounds.,"Kaiulani School, 783 N. King St.",O,Oahu,,15005016,N/A,387
+21.31,-157.86,"20,140,373",FIBE2,Ficus benghalensis,Indian Banyan,76.5,275.2,Has Plaque. Located in the back-right corner of Iolani Palace.,"Iolani Palace, 364 S. King St. (Downtown)",O,Oahu,,21025002,72,388
+21.31,-157.86,"20,140,374",FIBE2,Ficus benghalensis,Indian Banyan,72,63,Has Plaque,"Judiciary Bldg., 417 S. King (Downtown)",O,Oahu,,21025003,16.5,389
+21.26,-157.82,"20,140,371",FIBE2,Ficus benghalensis,Indian Banyan,65,47,,Diamond Head Tennis Cts.; Paki Ave. mauka,O,Oahu,,31043001,52,386
+21.3,-157.84,"20,140,370",FIBE2,Ficus benghalensis,Indian Banyan,59.5,229,Accessible to the public. No Plaque.,1212 Punahou St.,O,Oahu,,24007002,59.9,385
+21.28,-157.85,"20,140,375",FIBE2,Ficus benghalensis,Indian Banyan,48,N/A,Could not obtain metrics during visit.,"Ala Moana Beach Park, Magic Island, end of",O,Oahu,,23037025,N/A,390
+21.28,-157.82,"20,140,376",FIBE2,Ficus benghalensis,Indian Banyan,70,N/A,Not Accessible - Fence. Will receive permission from C&C.,Kuhio Beach Park,O,Oahu,,26001004,133,391
+21.28,-157.82,"20,140,378",FIBE2,Ficus benghalensis,Indian Banyan,65,378.3,,"2370 Kuhio Ave., The Food Pantry Ltd.",O,Oahu,,26021100,99,393
+21.28,-157.83,"20,140,377",FIBE2,Ficus benghalensis,Indian Banyan,75,573,Planted in 1904 by Jared Smith. One of the first trees to be placed on the Exceptional list.,"2365 Kalakaua Ave., Sheraton Moana Hotel",O,Oahu,,26001012,150,392
+21.28,-157.83,"20,140,379",FIBE2,Ficus benghalensis,Indian Banyan,N/A,N/A,Not Accessible- International Marketplace Construction,"2330 Kalakaua Ave., International Market Place",O,Oahu,,26022038,N/A,394
+21.27,-157.82,"20,140,381",FIBE2,Ficus benghalensis,Indian Banyan,54,160.4,,"Waikiki Aquarium, Ewa side",O,Oahu,,31030003,70,396
+21.27,-157.82,"20,140,383",FIBE2,Ficus benghalensis,Indian Banyan,70,146.7,,"Waikiki War Memorial Natatorium, mauka tree",O,Oahu,,31031003,79,398
+21.27,-157.82,"20,140,380",FIBE2,Ficus benghalensis,Indian Banyan,60,95,,"Across the street from the Zoo entrance, makai side of Kalakaua Ave.",O,Oahu,,31030003,100,395
+21.26,-157.82,"20,140,384",FIBE2,Ficus benghalensis,Indian Banyan,61,133,,"Diamond Head Tennis Cts., Paki Ave. makai",O,Oahu,,31043001,90,399
+21.27,-157.82,"20,140,382",FIBE2,Ficus benghalensis,Indian Banyan,58,89.5,,"Waikiki War Memorial Natatorium, makai tree",O,Oahu,,31031003,33.5,397
+21.27,-157.82,"20,140,385",FIBE2,Ficus benghalensis,Indian Banyan,70,180,Not Accessible- Located inside the Zoo.,"Honolulu Zoo, within zoo near entrance",O,Oahu,,31043001,N/A,400
+21.27,-157.82,"20,140,388",FIBE2,Ficus benghalensis,Indian Banyan,57,200,,"Honolulu Zoo outside entrance, makai tree",O,Oahu,,31043001,54,402
+21.27,-157.82,"20,140,386",FIBE2,Ficus benghalensis,Indian Banyan,58,33,,"Honolulu Zoo, outside entrance, mauka tree",O,Oahu,,31043001,83.5,401
+21.27,-157.82,"20,140,389",FIBE2,Ficus benghalensis,Indian Banyan,44,95,,Waikiki Shell Parking Lot Ent. makai tree,O,Oahu,,31043001,63,403
+21.26,-157.82,"20,140,391",FIBE2,Ficus benghalensis,Indian Banyan,75,286,,"Poni Moi Road, DH corner of Archery Range",O,Oahu,,31043007,87,405
+21.27,-157.82,"20,140,390",FIBE2,Ficus benghalensis,Indian Banyan,48,76.4,,Waikiki Shell Parking Lot Ent. mauka tree,O,Oahu,,31043001,24,404
+21.3,-157.85,"20,141,236",FIBE2,Ficus benghalensis,Indian Banyan,60,95.5,,Thomas Square,O,Oahu,,,,1290
+21.3,-157.85,"20,141,238",FIBE2,Ficus benghalensis,Indian Banyan,60,57,,Thomas Square,O,Oahu,,,,1292
+21.3,-157.85,"20,141,239",FIBE2,Ficus benghalensis,Indian Banyan,60,76,,Thomas Square,O,Oahu,,,,1293
+21.3,-157.85,"20,141,237",FIBE2,Ficus benghalensis,Indian Banyan,60,95.5,,Thomas Square,O,Oahu,,,,1291
+21.33,-157.84,"20,140,641",PHEM2,Phyllanthus emblica,Indian Gooseberry,40,56,Roughly 100 years old and is the largest of its kind on Oahu.,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,,662
+21.3,-157.82,"20,140,396",FIEL,Ficus elastica,Indian Rubber,27,60,Planted by: David Starr Jordan in 1922- Founding President of Stanford University,"University of Hawaii - Manoa, Sinclair Library",O,Oahu,,28023003,15.7,410
+21.27,-157.82,"20,140,103",CAEQ,Casuarina equisetifolia,Ironwood,54-75,21.5-35,,Kapiolani Park Bandstand,O,Oahu,,31043001,17,108
+21.33,-157.85,"20,140,102",CAEQ,Casuarina equisetifolia,Ironwood,61,38.2,No pinecones produced. Unique species of Ironwood.,52 Robinson Lane (Nuuanu),O,Oahu,,18003002,10,107
+21.27,-157.82,"20,140,104",CAEQ,Casuarina equisetifolia,Ironwood,52-85,25.5-41.5,,Kalakaua Ave. (Kapahulu to Poni Moi Rd.),O,Oahu,,31043001,,111
+21.3,-157.82,"20,140,574",HENY,Hernandia nymphaeifolia,Jack-in-the-box tree,28,29.4,Unique white bark with black lines throughout the trunk.,"University of Hawaii - Manoa, Sinclair Library",O,Oahu,,28023003,7.7,591
+21.33,-157.85,"20,140,068",CAIN4,Calophyllum inophyllum,Kamani,52.5,34.8,Located on the backside of the property.,52 Robinson Lane (Nuuanu),O,Oahu,,18003002,9.11,71
+21.51,-157.84,"20,140,069",CAIN4,Calophyllum inophyllum,Kamani,46,126,"On government property. No public access. Two trunks diamater = 49.5, 77 inches.","Kualoa Regional Park, near fishpond",O,Oahu,,49004001,1,72
+21.51,-157.84,"20,140,070",CAIN4,Calophyllum inophyllum,Kamani,53,N/A,On government property. No public access. Unable to measure circumference due to fire ant swarm at base of tree.,"Kualoa Regional Park, near fishpond",O,Oahu,,49004001,N/A,73
+21.48,-158.04,"20,140,071",CAIN4,Calophyllum inophyllum,Kamani,40-45,36.5-42,,"Wheeler Army Airfield, Haley Ave., lining both sides of road",O,Oahu,Wheeler,77001001,,74
+21.3,-157.84,"20,140,106",CEPE,Ceiba pentandra,Kapok,75,151.3,,"Dept. of Agricultuture, 1428 S. King. St.",O,Oahu,,24005018,39.6,115
+21.32,-157.86,"20,140,108",CEPE,Ceiba pentandra,Kapok,83.5,61.9,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,16.2,117
+21.32,-157.86,"20,140,107",CEPE,Ceiba pentandra,Kapok,88.5,87.5,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,22.9,116
+21.31,-157.85,"20,141,144",CEPE,Ceiba pentandra,Kapok,66.5,74.5,Nomination Needed.,Queen's Medical Center,O,Oahu,,21035003,19.5,1194
+21.33,-157.84,"20,140,584",LICH4,Litchi chinensis,Litchi,39.5,83.25,32 & 51.25 (Two trunks),2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,,601
+21.35,-157.76,"20,140,585",LICH4,Litchi chinensis,Litchi,85,88,"Extremely tall tree, west side of the path.","Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,23,602
+21.5,-158.01,"20,141,233",LICH4,Litchi chinensis,Litchi,42,82,Minor structural issues along one of the tree's four major stems.,"1699 Walea Street, Wahiawa, Hawaii, 96786",O,Oahu,,,,1287
+21.32,-157.86,"20,140,646",PRLO2,Pritchardia lowreyana,Loulu Palm,11,5.7,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,1.5,666
+21.33,-157.85,"20,140,587",MAIN8,Macadamia integrifolia,Macadamia Nut,38.5,26.8,Planted in the 1920s,52 Robinson Lane (Nuuanu),O,Oahu,,18003002,7,604
+21.49,-158.06,"20,140,877",SWMA2,Swietenia macrophylla,Mahogany,78,58.5,,"Schoffield Barracks, west Lewis St.",O,Oahu,Schofield,77001001,,914
+21.33,-157.84,"20,140,878",SWMA,Swietenia mahagoni,Mahogany,52,62,,2616 Pali Highway (Old Walker Estate),O,Oahu,,18008001,N/A,915
+21.3,-157.84,"20,140,881",SWMA,Swietenia mahagoni,Mahogany,42-58.5,,,"Kalakaua Ave., Beretania St. to Kapahulu Blvd.",O,Oahu,,24005000,,918
+21.49,-158.06,"20,140,876",SWMA2,Swietenia macrophylla,Mahogany,78,51,,"Schoffield Barracks, west Lewis St.",O,Oahu,Schofield,77001001,,913
+21.49,-158.06,"20,140,875",SWMA2,Swietenia macrophylla,Mahogany,89,67,,"Schoffield Barracks, 1 west Glennan Ave. Bldg 672",O,Oahu,Schofield,77001001,,912
+21.3,-157.84,"20,140,589",MAAM2,Mammea americana,Mammee Apple,45,36,,"Dept. of Agricultuture, 1428 S. King. St.",O,Oahu,,24005018,9.6,606
+21.33,-157.84,"20,140,590",MAIN,Mangifera indica,Mango,57,69,Produces a large amount of fruit for its old age.,2616 Pali Highway (Old Walker Estate),O,Oahu,,18003002,,607
+21.34,-157.84,"20,140,592",MAIN,Mangifera indica,Mango,66,88.3,Produces a great deal of mangos. Located in the center of the park.,Nuuanu Valley Park,O,Oahu,,22034028,23.1,609
+21.35,-157.76,"20,140,571",GAMA10,Garcinia mangostana,Mangosteen,N/A,N/A,Off the path. Not Accessible.,"Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,N/A,588
+21.31,-157.8,"20,141,225",AT5,Attalea cohune,Mexican Cohune Nut Palms,81-83.5,19.5-22.7,Once owned by Dr. Straub. The home is built around the trees.,3296 Paty Drive,O,Oahu,,2-9-041:068,,1278
+21.49,-158.04,"20,140,901",WARO,Washingtonia robusta,Mexican Fan Palm,67,15.5-17,,"Schoffield Barracks, Dickman Rd., west side",O,Oahu,Schofield,77001001,,940
+21.49,-158.06,"20,140,887",WARO,Washingtonia robusta,Mexican Fan Palm,66-69,15-16,,"Glennan St., lining both sides of street Mexican Fan alms",O,Oahu,Schofield,77001001,,924
+21.5,-158.02,"20,140,259",EUDE,Eucalyptus deglupta,Mindanao Gum,112,52,Not the Mindanao Gum with the #1 sign on it. The exceptional tree has a gold plaque and is a little further in the botanical gardens.,"Wahiawa Botanical Garden, 1396 Calif. Ave.",O,Oahu,,74017001,,272
+21.39,-157.72,"20,140,819",ALSA,Albizia saman,Monkeypod,N/A,N/A,Not accessible due to being in the backyard on private property.,"1070 Aalapapa Dr., Lanikai",O,Oahu,,43006102,N/A,851
+21.33,-157.85,"20,140,817",ALSA,Albizia saman,Monkeypod,56,N/A,Diameter could not be obtained due to vegetation surrounding the base of the tree. Located on private property.,420 Wyllie St. (Nuuanu),O,Oahu,,18006007,N/A,849
+21.35,-157.89,"20,140,816",ALSA,Albizia saman,Monkeypod,53.5,78.7,"Famous ""Hitachi Tree"".","""Hitachi Tree"" Moanalua Gardens",O,Oahu,,11009004,20.6,848
+21.3,-157.83,"20,140,818",ALSA,Albizia saman,Monkeypod,38,94,Private Property. No access to the public. Inside church property.,"Central Union Church, 1660 S. Beretania St.",O,Oahu,,28011002,24.6,850
+21.48,-158.04,"20,140,820",ALSA,Albizia saman,Monkeypod,58,70,,"Wheeler Army Airfield, 258 Haley Ave Apt. 102",O,Oahu,Wheeler,77001001,,852
+21.4,-157.8,"20,140,821",ALSA,Albizia saman,Monkeypod,34-52,27.9-50.8,The ET plaque is on the tree on the corner of Koa Kahiko and Aumoku Street,"Windward City Shopping Center, Kaneohe",O,Oahu,,45060061,7.3-13.3,853
+21.38,-157.75,"20,140,851",ALSA,Albizia saman,Monkeypod,52,89.8,Women's Community Correctional Facility Front Lawn,"Women's Community Corrections Ctr., Kailua",O,Oahu,,42003005,23.5,885
+21.33,-157.85,"20,140,832",ALSA,Albizia saman,Monkeypod,35.1,85.6,All around the noted property.,52 Robinson Lane (Nuuanu),O,Oahu,,18003002,22.4,866
+21.35,-157.89,"20,140,849",ALSA,Albizia saman,Monkeypod,52,76.1,Has Plaque,"Moanalua Gardens, 1352 Pineapple Pl.",O,Oahu,,11009004,19.9,883
+21.38,-157.75,"20,140,850",ALSA,Albizia saman,Monkeypod,52,89.8,Women's Community Correctional Facility Front Lawn,"Women's Community Corrections Ctr., Kailua",O,Oahu,,42003004,23.5,884
+21.38,-157.75,"20,140,852",ALSA,Albizia saman,Monkeypod,47,89.8,Women's Community Correctional Facility Front Lawn,"Women's Community Corrections Ctr., Kailua",O,Oahu,,42003006,23.5,886
+21.4,-157.8,"20,140,853",ALSA,Albizia saman,Monkeypod,29-46,32.1-41.3,Trees are in the parking lot by Koa Kahiko St. entrance,"Windward City Shopping Center, Kaneohe",O,Oahu,,45060061,8.4-10.8,887
+21.27,-157.82,"20,140,858",ALSA,Albizia saman,Monkeypod,35-55,35-50,,Paki Avenue (Kapahulu to Monsarrat),O,Oahu,,31043000,10-Sep,894
+21.35,-157.89,"20,140,879",ALSA,Albizia saman,Monkeypod,49,47,No Plaque,"Moanalua Gardens, 1352 Pineapple Pl.",O,Oahu,,11009004,12.3,916
+21.34,-157.84,"20,141,157",ALSA,Albizia saman,Monkeypod,52,77.2,Amazing Monkeypod. Should be nominated.,Nuuanu Valley,O,Oahu,,,20.2,1209
+21.34,-157.84,"20,141,156",ALSA,Albizia saman,Monkeypod,51,73.4,Amazing Monkeypod,Nuuanu Park,O,Oahu,,,19.2,1208
+21.31,-157.81,"20,141,165",ALSA,Albizia saman,Monkeypod,34,50,Private Property,Cooke Estate,O,Oahu,,,13.1,1217
+21.31,-157.81,"20,141,167",ALSA,Albizia saman,Monkeypod,43,49.7,Private Property,Cooke Estate,O,Oahu,,,12.11,1219
+21.31,-157.81,"20,141,168",ALSA,Albizia saman,Monkeypod,40,59,Private Property,Cooke Estate,O,Oahu,,,15.5,1220
+21.31,-157.81,"20,141,166",ALSA,Albizia saman,Monkeypod,40,36,Private Property,Cooke Estate,O,Oahu,,,9.6,1218
+21.64,-158.05,"20,141,176",ALSA,Albizia Saman,Monkeypod,70,105,,Waimea Valley,O,Oahu,,,27.9,1223
+21.31,-157.81,"20,141,164",ALSA,Albizia saman,Monkeypod,34,34.7,Private Property,Cooke Estate,O,Oahu,,,9.1,1216
+21.39,-157.74,"20,140,397",FIMA1,Ficus macrophylla,Moreton Bay Fig,50,39,Downtown Kailua,"Kailua Road 'Triange Park' , Kailua",O,Oahu,,42018014,10.2,411
+21.49,-158.05,"20,140,398",FIMA1,Ficus macrophylla,Moreton Bay Fig,68,17,,"Schofield Barracks bldg.747 Quad 1, SW corner",O,Oahu,Schofield,77001001,,412
+21.35,-157.76,"20,140,882",SYMA2,Syzygium malaccense,Mountain Apple,36.5,22,Near old bathhouse.,"Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,5.9,919
+21.5,-158.06,"20,140,395",FIDR3,Ficus drupacea,Mysore Fig,80,130,,"Waianae & McCornack Rds., north of Grant Hall",O,Oahu,Schofield,77001001,,409
+21.49,-158.04,"20,140,653",PTIN,Pterocarpus indicus,Narra,60,32,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,673
+21.49,-158.04,"20,140,656",PTIN,Pterocarpus indicus,Narra,68,38,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,676
+21.49,-158.04,"20,140,652",PTIN,Pterocarpus indicus,Narra,55,39,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,672
+21.49,-158.04,"20,140,655",PTIN,Pterocarpus indicus,Narra,56,30,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,675
+21.49,-158.04,"20,140,657",PTIN,Pterocarpus indicus,Narra,84,59,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,677
+21.33,-157.82,"20,140,651",PTIN,Pterocarpus indicus,Narra,67.5,77,On curve near house #3665,Tantalus Dr. (near 3665 Tantalus Dr.),O,Oahu,,25012006,20.1,671
+21.49,-158.04,"20,140,654",PTIN,Pterocarpus indicus,Narra,72,41,,"Wheeler Army Airfield, Eastman Rd.",O,Oahu,Wheeler,77001001,,674
+21.49,-158.05,"20,140,030",ARHE,Araucaria sp.,Norfolk Island Pine,116-120,26.5-29.5,,"Schofield Barracks, General Loop and McComb Gate Road, both sides",O,Oahu,Schofield,77001001,,31
+21.31,-157.81,"20,141,226",OLEU,Olea europaea,Olive Tree,35,61.5,Very large Olive Tree,Manoa,O,Oahu,,2-9-014:070,,1281
+21.3,-157.83,"20,140,643",PIDU,Pithecellobium dulce,Opiuma,,,Accessible to the public.,"Fernhurst YMCA, 1566 Wilder Ave. (Makiki)",O,Oahu,,24023087,,664
+21.29,-157.85,"20,140,867",STAP,Sterculia apetala,Panama Tree,24.5,15.6,Near the river,Ala Moana Beach Park,O,Oahu,,23037001,4.1,902
+21.3,-157.85,"20,141,235",STAP,Sterculia apetala,Panama Tree,55,44,,Thomas Square,O,Oahu,,,,1289
+21.32,-157.86,"20,140,096",CAOV7,Canarium vulgare,Pili Nut,57.5,30.6,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,8,101
+21.5,-157.86,"20,140,098",CAOV7,Canarium vulgare,Pili Nut,N/A,N/A,Not Accessible. On private property/blocked by gate.,49-074-C Kamehameha Hwy. (Windward),O,Oahu,,49001005,N/A,103
+21.31,-157.86,"20,140,097",CAOV7,Canarium vulgare,Pili Nut,,N/A,At Governor's Residence. No Public Access. No Access Granted to Obtain Data.,"Washington Place, 320 S. Beretania",O,Oahu,,21018001,N/A,102
+21.31,-157.85,"20,140,647",PSEL5,Pseudobombax ellipticum,Pink Bombax,33.5,47,Green Exceptional Tree Sign Present.,"Queen's Medical Center, 1301 Punchbowl St.",O,Oahu,,21035003,12.3,667
+21.26,-157.79,"20,140,648",PSEL5,Pseudobombax ellipticum,Pink Bombax,27.5,N/A,Diameter could not be obtained due to surrounding vegetation.,612 Ahakea St.,O,Oahu,,35014036,N/A,668
+21.49,-158.06,"20,140,001",BDL OTHER,Acrocarpus fraxinifolius,Pink Cedar,117,89,,"Schofield Barracks, Ulrich Way., w. of bldg. S2107",O,Oahu,Schofield,77001001,null,0
+21.32,-157.86,"20,140,596",MIEL,Mimusops elengi,Pogada,62.5,N/A,Surrounded by cacti. Not able to obtain circumference.,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,N/A,613
+21.49,-158.03,"20,140,597",MIEL,Mimusops elengi,Pogada,26-35,13.5-31,,"Curtis Lp., outlining parking lot and along west side of Leilehua Rd.",O,Oahu,Wheeler,77001001,,614
+21.32,-157.86,"20,140,582",LASP,Lagerstroemia speciosa,Queen's Crape Myrtle,63,38.5,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,10.1,599
+21.31,-157.86,"20,140,015",AGRO,Agathis robusta,Queensland Kauri,62,63.1,"No Plaque. Unique ""pot-holed"" appearance in the bark.","Judiciary Bldg., 417 S. King (Downtown)",O,Oahu,,21025003,16.5,16
+21.33,-157.81,"20,140,016",AGRO,Agathis robusta,Queensland Kauri,N/A,N/A,Near marker 1M. Not accessible due to excessive vegetation.,"Harold L. Lyon Arboretum, 3860 Manoa Rd.",O,Oahu,,29055006,N/A,17
+21.32,-157.86,"20,140,105",BDL OTHER,Cavanillesia platanifolia,Quipo,85,N/A,Surrounding vegetation did not allow for the circumference to be obtained.,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,N/A,114
+21.32,-157.86,"20,140,101",CANE33,Cassia x nealiae,Rainbow Shower,53,40.5,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,10.6,106
+21.4,-157.8,"20,140,100",CASSI,Cassia roxburghii,Red Cassia,21.5,21,Anoi & Uhilehua crossroads.,"45-647 Anoi Rd., Kaneohe",O,Oahu,,45081015,5.6,105
+21.49,-158.06,"20,140,203",EUCA1,Eucalyptus camaldulensis,Red River Gum,70-107,23-56,Crown spread not obtainable due to street.,"Kolekole Ave., Fournier Ave to Hewitt St., lining golf course",O,Oahu,Schofield,77001001,,214
+21.32,-157.86,"20,140,672",RO9,Roystonea oleracea,Royal Caribbean Palm,115,26.4,,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,6.9,694
+21.36,-157.76,"20,140,677",RORE,Roystonea regia,Royal Palm,65-75,19-26,Northwest side of path near old bathhouse.,"Castle Ranch, 1385 Maunawili Rd., Kailua",O,Oahu,,42009001,5.0-6.10,701
+21.49,-158.03,"20,140,707",RORE,Roystonea regia,Royal Palm,52-64,20.5-24,,White Ash alternating with Royal Palms on both sides of Sperry and Langley Lp.,O,Oahu,Schofield,77001001,,733
+21.31,-157.82,"20,140,576",HUCR,Hura crepitans,Sandbox Tree,59,61.1,2365 Oahu Ave.,2365 Oahu Ave. (Manoa),O,Oahu,,29005006,16,593
+21.28,-157.76,"20,140,579",KIPI,Kigelia africana,Sausage Tree,40,47.8,Beside steam and tennis courts.,"Coast Guard Station, Kalanianaole Hwy",O,Oahu,,35046013,12.5,596
+21.4,-157.73,"20,140,580",KIPI,Kigelia africana,Sausage Tree,33.5,N/A,Inside private property grounds. Not accessible to obtain circumference.,"115 Kuukama St., Kailua",O,Oahu,,43014007,N/A,597
+21.33,-157.8,"20,140,113",PEM OTHER,Cyrtostachys renda,Sealing Wax Palm,33,4.6,Right off the main path near the parking lot.,"Harold L. Lyon Arboretum, 3860 Manoa Rd.",O,Oahu,,29005006,1.2,120
+21.31,-157.85,"20,140,644",PLOB2,Plumeria obtusa,Singapore Plumeria,N/A,N/A,"Private Property. Access not granted, unable to gather data.",902-B Prospect St. (Makiki),O,Oahu,,22004048,N/A,665
+21.3,-157.82,"20,140,873",STFO2,Sterculia foetida,Skunk /Java Olive,24.5,36.3,Planted by: Liberty Hyde Bailey in 1928- Horticulturist and Botanist.,"University of Hawaii - Manoa, George Hall",O,Oahu,,28023003,9.5,910
+21.31,-157.85,"20,140,872",STFO2,Sterculia foetida,Skunk/Java Olive,N/A,N/A,"Unable to access property, as a result, no data could be obtained.","Tennet Family Foundation, 203 Prospect St.",O,Oahu,,22003076,,909
+21.49,-158.05,"20,140,874",STFO2,Sterculia foetida,Skunk/Java Olive,55,53,,"Schofield Barracks, 225 General Loop",O,Oahu,Schofield,77001001,,911
+21.49,-158.05,"20,140,260",EURO,Eucalyptus robusta,Swamp Mahogany,47-85,15.5-36,,"Schoffield Barracks, Wilikina Dr.",O,Oahu,Schofield,77001001,,273
+21.33,-157.85,"20,140,883",TAIN,Tamarindus indica,Tamarind,45,61.6,Located on private property directly off of Robinson Lane.,52 Robinson Lane (Nuuanu),O,Oahu,,18003002,16.1,920
+21.31,-157.86,"20,140,884",TAIN,Tamarindus indica,Tamarind,N/A,N/A,,"Judiciary Bldg., 417 S. King (Downtown)",O,Oahu,,21025003,,921
+21.31,-157.86,"20,141,159",TAIN,Tamarindus indica,Tamarind Tree,N/A,N/A,On Washington Place Property. Cannot get data.,Washington Place,O,Oahu,,2-1-018:001,N/A,1211
+21.32,-157.86,"20,140,659",BEL OTHER,Pterygota alata,Tattele,118,N/A,In maintenance area. Not accessible to the general public.,"Foster Botanical Garden, 180 N. Vineyard Blvd.",O,Oahu,,17007002,N/A,679
+21.31,-157.85,"20,140,863",SCBR,Schotia brachypetala,Tree Fuchsia,N/A,N/A,"Unable to access property, as a result, no data could be obtained.","Tennet Family Foundation, 203 Prospect St.",O,Oahu,,22003076,,898
+21.31,-157.84,"20,140,394",FIBE,Ficus benjamina,Weeping Fig,64,89.4,No Plaque,"Roosevelt High School, 1120 Nehoa",O,Oahu,,24032001,23.4,408
+21.29,-157.84,"20,140,487",FIBE,Ficus benjamina,Weeping Fig,20-36.5,14.9-48.2,A row along each side of the pathway.,Ala Wai Canal,O,Oahu,,23036036,3.9-12.6,500
+21.32,-157.8,"20,141,169",FIBE,Ficus benjamina,Weeping Fig,100,108,Private Property,,O,Oahu,,,9,1221
+21.3,-157.84,"20,140,573",GUUL,Guazuma ulmifolia,West Indian Elm,40,35,,"Dept. of Agricultuture, 1428 S. King. St.",O,Oahu,,24005018,9.2,590
+21.49,-158.03,"20,140,491",FRAM,Fraxinus americana,White Ash,56-65,36.5-44,,White Ash alternating with Royal Palms on both sides of Sperry and Langley Lp.,O,Oahu,Wheeler,77001001,,506
+21.49,-158.06,"20,140,583",LAPA,Lagunaria patersonii,White Wood,64.5,40,,"West of Glennan St., between Bldg 687 & 688 Whitewood",O,Oahu,Schofield,77001001,,600
+21.29,-157.68,"20,140,146",ERSA11,Erythrina sandwicensis,Wiliwili,6.7-15.1,93.6-129.9,10 minute hike along the garden's main trail.,Koko Crater Botanical Garden,O,Oahu,,39012001,24.5-34,155
+21.63,0,"20,141,177",ERSA11,Erythrina sandwicensis,Wiliwili,29.5-42,11-22.5,,,O,Oahu,,,2.10-5.9,1224
+21.31,-157.81,"20,141,161",PIHO,Pittosporum hosmeri,Ho`awa,14.5,47,Private Property,Cooke Estate,O,Oahu,,,12.4,1213
+21.27,-157.82,"20,141,142",FIBE2,Ficus benghalensis,Indian Banyan,58,146.7,,Queen's Surf Beach- Kalakaua Ave,O,Oahu,,31030003,49,1193
+21.38,-157.75,"20,141,158",ALSA,Albizia saman,Monkeypod,60,84.4,Women's Community Correctional Facility Front Lawn,,O,Oahu,,,22.11,1210
+21.31,-157.81,"20,141,163",LASP,Lagerstroemia speciosa,Queen's Crape Myrtle,63,45,Private Property,Cooke Estate,O,Oahu,,,12,1215
+21.31,-157.82,"20,141,162",TADO2,Roseodendron donnell-smithii,Gold Tree,60,32,Private Property,Cooke Estate,O,Oahu,,,8.7,1214
+21.17,-156.92,"20,141,148",PRHI,Pritchardia hillebrandii,Loulu Lelo Palm,N/A,N/A,On an island off of the coast.,Huelo Island,O,Oahu,,,N/A,1200
+21.64,-158.05,"20,141,175",ALSA,Albizia Saman,Monkeypod,67,108,,Waimea Valley,,,,,9,1222

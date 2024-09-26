@@ -1,0 +1,1637 @@
+{
+    "nodes": [
+        {
+            "id": "000000",
+            "name": "000000",
+            "color": "000000",
+            "size": 8192
+        },
+        {
+            "id": "330000",
+            "name": "330000",
+            "color": "330000",
+            "size": 8192
+        },
+        {
+            "id": "333300",
+            "name": "333300",
+            "color": "333300",
+            "size": 8192
+        },
+        {
+            "id": "663300",
+            "name": "663300",
+            "color": "663300",
+            "size": 8192
+        },
+        {
+            "id": "666600",
+            "name": "666600",
+            "color": "666600",
+            "size": 8192
+        },
+        {
+            "id": "996600",
+            "name": "996600",
+            "color": "996600",
+            "size": 8192
+        },
+        {
+            "id": "999900",
+            "name": "999900",
+            "color": "999900",
+            "size": 8192
+        },
+        {
+            "id": "CC9900",
+            "name": "CC9900",
+            "color": "CC9900",
+            "size": 8192
+        },
+        {
+            "id": "CCCC00",
+            "name": "CCCC00",
+            "color": "CCCC00",
+            "size": 8192
+        },
+        {
+            "id": "FFCC00",
+            "name": "FFCC00",
+            "color": "FFCC00",
+            "size": 8192
+        },
+        {
+            "id": "FFFF00",
+            "name": "FFFF00",
+            "color": "FFFF00",
+            "size": 8192
+        },
+        {
+            "id": "FFFF33",
+            "name": "FFFF33",
+            "color": "FFFF33",
+            "size": 8192
+        },
+        {
+            "id": "FFCC33",
+            "name": "FFCC33",
+            "color": "FFCC33",
+            "size": 8192
+        },
+        {
+            "id": "CCCC33",
+            "name": "CCCC33",
+            "color": "CCCC33",
+            "size": 8192
+        },
+        {
+            "id": "CCFF33",
+            "name": "CCFF33",
+            "color": "CCFF33",
+            "size": 8192
+        },
+        {
+            "id": "CCFF66",
+            "name": "CCFF66",
+            "color": "CCFF66",
+            "size": 8192
+        },
+        {
+            "id": "FFFF66",
+            "name": "FFFF66",
+            "color": "FFFF66",
+            "size": 8192
+        },
+        {
+            "id": "FFFF99",
+            "name": "FFFF99",
+            "color": "FFFF99",
+            "size": 8192
+        },
+        {
+            "id": "CC9933",
+            "name": "CC9933",
+            "color": "CC9933",
+            "size": 8192
+        },
+        {
+            "id": "FF9933",
+            "name": "FF9933",
+            "color": "FF9933",
+            "size": 8192
+        },
+        {
+            "id": "FF9966",
+            "name": "FF9966",
+            "color": "FF9966",
+            "size": 8192
+        },
+        {
+            "id": "FFCC66",
+            "name": "FFCC66",
+            "color": "FFCC66",
+            "size": 8192
+        },
+        {
+            "id": "FFCC99",
+            "name": "FFCC99",
+            "color": "FFCC99",
+            "size": 8192
+        },
+        {
+            "id": "999933",
+            "name": "999933",
+            "color": "999933",
+            "size": 8192
+        },
+        {
+            "id": "99CC33",
+            "name": "99CC33",
+            "color": "99CC33",
+            "size": 8192
+        },
+        {
+            "id": "99CC66",
+            "name": "99CC66",
+            "color": "99CC66",
+            "size": 8192
+        },
+        {
+            "id": "CCCC66",
+            "name": "CCCC66",
+            "color": "CCCC66",
+            "size": 8192
+        },
+        {
+            "id": "CCCC99",
+            "name": "CCCC99",
+            "color": "CCCC99",
+            "size": 8192
+        },
+        {
+            "id": "CCFF99",
+            "name": "CCFF99",
+            "color": "CCFF99",
+            "size": 8192
+        },
+        {
+            "id": "CCFFCC",
+            "name": "CCFFCC",
+            "color": "CCFFCC",
+            "size": 8192
+        },
+        {
+            "id": "FFFFCC",
+            "name": "FFFFCC",
+            "color": "FFFFCC",
+            "size": 8192
+        },
+        {
+            "id": "FFFFFF",
+            "name": "FFFFFF",
+            "color": "FFFFFF",
+            "size": 8192
+        },
+        {
+            "id": "99FF66",
+            "name": "99FF66",
+            "color": "99FF66",
+            "size": 8192
+        },
+        {
+            "id": "99FF99",
+            "name": "99FF99",
+            "color": "99FF99",
+            "size": 8192
+        },
+        {
+            "id": "996633",
+            "name": "996633",
+            "color": "996633",
+            "size": 8192
+        },
+        {
+            "id": "CC6633",
+            "name": "CC6633",
+            "color": "CC6633",
+            "size": 8192
+        },
+        {
+            "id": "CC6666",
+            "name": "CC6666",
+            "color": "CC6666",
+            "size": 8192
+        },
+        {
+            "id": "FF6666",
+            "name": "FF6666",
+            "color": "FF6666",
+            "size": 8192
+        },
+        {
+            "id": "FF6699",
+            "name": "FF6699",
+            "color": "FF6699",
+            "size": 8192
+        },
+        {
+            "id": "FF9999",
+            "name": "FF9999",
+            "color": "FF9999",
+            "size": 8192
+        },
+        {
+            "id": "FF99CC",
+            "name": "FF99CC",
+            "color": "FF99CC",
+            "size": 8192
+        },
+        {
+            "id": "FFCCCC",
+            "name": "FFCCCC",
+            "color": "FFCCCC",
+            "size": 8192
+        },
+        {
+            "id": "FFCCFF",
+            "name": "FFCCFF",
+            "color": "FFCCFF",
+            "size": 8192
+        },
+        {
+            "id": "CC9966",
+            "name": "CC9966",
+            "color": "CC9966",
+            "size": 8192
+        },
+        {
+            "id": "CC9999",
+            "name": "CC9999",
+            "color": "CC9999",
+            "size": 8192
+        },
+        {
+            "id": "666633",
+            "name": "666633",
+            "color": "666633",
+            "size": 8192
+        },
+        {
+            "id": "669933",
+            "name": "669933",
+            "color": "669933",
+            "size": 8192
+        },
+        {
+            "id": "669966",
+            "name": "669966",
+            "color": "669966",
+            "size": 8192
+        },
+        {
+            "id": "999966",
+            "name": "999966",
+            "color": "999966",
+            "size": 8192
+        },
+        {
+            "id": "999999",
+            "name": "999999",
+            "color": "999999",
+            "size": 8192
+        },
+        {
+            "id": "99CC99",
+            "name": "99CC99",
+            "color": "99CC99",
+            "size": 8192
+        },
+        {
+            "id": "99CCCC",
+            "name": "99CCCC",
+            "color": "99CCCC",
+            "size": 8192
+        },
+        {
+            "id": "CCCCCC",
+            "name": "CCCCCC",
+            "color": "CCCCCC",
+            "size": 8192
+        },
+        {
+            "id": "CCCCFF",
+            "name": "CCCCFF",
+            "color": "CCCCFF",
+            "size": 8192
+        },
+        {
+            "id": "CCFFFF",
+            "name": "CCFFFF",
+            "color": "CCFFFF",
+            "size": 8192
+        },
+        {
+            "id": "99FFCC",
+            "name": "99FFCC",
+            "color": "99FFCC",
+            "size": 8192
+        },
+        {
+            "id": "99FFFF",
+            "name": "99FFFF",
+            "color": "99FFFF",
+            "size": 8192
+        },
+        {
+            "id": "66CC66",
+            "name": "66CC66",
+            "color": "66CC66",
+            "size": 8192
+        },
+        {
+            "id": "66CC99",
+            "name": "66CC99",
+            "color": "66CC99",
+            "size": 8192
+        },
+        {
+            "id": "66FF99",
+            "name": "66FF99",
+            "color": "66FF99",
+            "size": 8192
+        },
+        {
+            "id": "66FFCC",
+            "name": "66FFCC",
+            "color": "66FFCC",
+            "size": 8192
+        },
+        {
+            "id": "663333",
+            "name": "663333",
+            "color": "663333",
+            "size": 8192
+        },
+        {
+            "id": "993333",
+            "name": "993333",
+            "color": "993333",
+            "size": 8192
+        },
+        {
+            "id": "993366",
+            "name": "993366",
+            "color": "993366",
+            "size": 8192
+        },
+        {
+            "id": "CC3366",
+            "name": "CC3366",
+            "color": "CC3366",
+            "size": 8192
+        },
+        {
+            "id": "CC3399",
+            "name": "CC3399",
+            "color": "CC3399",
+            "size": 8192
+        },
+        {
+            "id": "FF3399",
+            "name": "FF3399",
+            "color": "FF3399",
+            "size": 8192
+        },
+        {
+            "id": "FF33CC",
+            "name": "FF33CC",
+            "color": "FF33CC",
+            "size": 8192
+        },
+        {
+            "id": "FF66CC",
+            "name": "FF66CC",
+            "color": "FF66CC",
+            "size": 8192
+        },
+        {
+            "id": "FF66FF",
+            "name": "FF66FF",
+            "color": "FF66FF",
+            "size": 8192
+        },
+        {
+            "id": "FF99FF",
+            "name": "FF99FF",
+            "color": "FF99FF",
+            "size": 8192
+        },
+        {
+            "id": "CC6699",
+            "name": "CC6699",
+            "color": "CC6699",
+            "size": 8192
+        },
+        {
+            "id": "CC66CC",
+            "name": "CC66CC",
+            "color": "CC66CC",
+            "size": 8192
+        },
+        {
+            "id": "CC99CC",
+            "name": "CC99CC",
+            "color": "CC99CC",
+            "size": 8192
+        },
+        {
+            "id": "CC99FF",
+            "name": "CC99FF",
+            "color": "CC99FF",
+            "size": 8192
+        },
+        {
+            "id": "996666",
+            "name": "996666",
+            "color": "996666",
+            "size": 8192
+        },
+        {
+            "id": "996699",
+            "name": "996699",
+            "color": "996699",
+            "size": 8192
+        },
+        {
+            "id": "333333",
+            "name": "333333",
+            "color": "333333",
+            "size": 8192
+        },
+        {
+            "id": "336633",
+            "name": "336633",
+            "color": "336633",
+            "size": 8192
+        },
+        {
+            "id": "336666",
+            "name": "336666",
+            "color": "336666",
+            "size": 8192
+        },
+        {
+            "id": "666666",
+            "name": "666666",
+            "color": "666666",
+            "size": 8192
+        },
+        {
+            "id": "666699",
+            "name": "666699",
+            "color": "666699",
+            "size": 8192
+        },
+        {
+            "id": "669999",
+            "name": "669999",
+            "color": "669999",
+            "size": 8192
+        },
+        {
+            "id": "6699CC",
+            "name": "6699CC",
+            "color": "6699CC",
+            "size": 8192
+        },
+        {
+            "id": "9999CC",
+            "name": "9999CC",
+            "color": "9999CC",
+            "size": 8192
+        },
+        {
+            "id": "9999FF",
+            "name": "9999FF",
+            "color": "9999FF",
+            "size": 8192
+        },
+        {
+            "id": "99CCFF",
+            "name": "99CCFF",
+            "color": "99CCFF",
+            "size": 8192
+        },
+        {
+            "id": "66CCCC",
+            "name": "66CCCC",
+            "color": "66CCCC",
+            "size": 8192
+        },
+        {
+            "id": "66CCFF",
+            "name": "66CCFF",
+            "color": "66CCFF",
+            "size": 8192
+        },
+        {
+            "id": "66FFFF",
+            "name": "66FFFF",
+            "color": "66FFFF",
+            "size": 8192
+        },
+        {
+            "id": "339966",
+            "name": "339966",
+            "color": "339966",
+            "size": 8192
+        },
+        {
+            "id": "339999",
+            "name": "339999",
+            "color": "339999",
+            "size": 8192
+        },
+        {
+            "id": "33CC99",
+            "name": "33CC99",
+            "color": "33CC99",
+            "size": 8192
+        },
+        {
+            "id": "33CCCC",
+            "name": "33CCCC",
+            "color": "33CCCC",
+            "size": 8192
+        },
+        {
+            "id": "33FFCC",
+            "name": "33FFCC",
+            "color": "33FFCC",
+            "size": 8192
+        },
+        {
+            "id": "33FFFF",
+            "name": "33FFFF",
+            "color": "33FFFF",
+            "size": 8192
+        },
+        {
+            "id": "330033",
+            "name": "330033",
+            "color": "330033",
+            "size": 8192
+        },
+        {
+            "id": "660033",
+            "name": "660033",
+            "color": "660033",
+            "size": 8192
+        },
+        {
+            "id": "660066",
+            "name": "660066",
+            "color": "660066",
+            "size": 8192
+        },
+        {
+            "id": "990066",
+            "name": "990066",
+            "color": "990066",
+            "size": 8192
+        },
+        {
+            "id": "990099",
+            "name": "990099",
+            "color": "990099",
+            "size": 8192
+        },
+        {
+            "id": "CC0099",
+            "name": "CC0099",
+            "color": "CC0099",
+            "size": 8192
+        },
+        {
+            "id": "CC00CC",
+            "name": "CC00CC",
+            "color": "CC00CC",
+            "size": 8192
+        },
+        {
+            "id": "FF00CC",
+            "name": "FF00CC",
+            "color": "FF00CC",
+            "size": 8192
+        },
+        {
+            "id": "FF00FF",
+            "name": "FF00FF",
+            "color": "FF00FF",
+            "size": 8192
+        },
+        {
+            "id": "FF33FF",
+            "name": "FF33FF",
+            "color": "FF33FF",
+            "size": 8192
+        },
+        {
+            "id": "CC33CC",
+            "name": "CC33CC",
+            "color": "CC33CC",
+            "size": 8192
+        },
+        {
+            "id": "CC33FF",
+            "name": "CC33FF",
+            "color": "CC33FF",
+            "size": 8192
+        },
+        {
+            "id": "CC66FF",
+            "name": "CC66FF",
+            "color": "CC66FF",
+            "size": 8192
+        },
+        {
+            "id": "993399",
+            "name": "993399",
+            "color": "993399",
+            "size": 8192
+        },
+        {
+            "id": "9933CC",
+            "name": "9933CC",
+            "color": "9933CC",
+            "size": 8192
+        },
+        {
+            "id": "9966CC",
+            "name": "9966CC",
+            "color": "9966CC",
+            "size": 8192
+        },
+        {
+            "id": "9966FF",
+            "name": "9966FF",
+            "color": "9966FF",
+            "size": 8192
+        },
+        {
+            "id": "663366",
+            "name": "663366",
+            "color": "663366",
+            "size": 8192
+        },
+        {
+            "id": "663399",
+            "name": "663399",
+            "color": "663399",
+            "size": 8192
+        },
+        {
+            "id": "003300",
+            "name": "003300",
+            "color": "003300",
+            "size": 8192
+        },
+        {
+            "id": "003333",
+            "name": "003333",
+            "color": "003333",
+            "size": 8192
+        },
+        {
+            "id": "006633",
+            "name": "006633",
+            "color": "006633",
+            "size": 8192
+        },
+        {
+            "id": "006666",
+            "name": "006666",
+            "color": "006666",
+            "size": 8192
+        },
+        {
+            "id": "009966",
+            "name": "009966",
+            "color": "009966",
+            "size": 8192
+        },
+        {
+            "id": "009999",
+            "name": "009999",
+            "color": "009999",
+            "size": 8192
+        },
+        {
+            "id": "00CC99",
+            "name": "00CC99",
+            "color": "00CC99",
+            "size": 8192
+        },
+        {
+            "id": "00CCCC",
+            "name": "00CCCC",
+            "color": "00CCCC",
+            "size": 8192
+        },
+        {
+            "id": "00FFCC",
+            "name": "00FFCC",
+            "color": "00FFCC",
+            "size": 8192
+        },
+        {
+            "id": "00FFFF",
+            "name": "00FFFF",
+            "color": "00FFFF",
+            "size": 8192
+        },
+        {
+            "id": "000033",
+            "name": "000033",
+            "color": "000033",
+            "size": 8192
+        }
+    ],
+    "links": [
+        {
+            "name": "RED_UP",
+            "source": "000000",
+            "target": "330000",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "330000",
+            "target": "333300",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "333300",
+            "target": "663300",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "663300",
+            "target": "666600",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "666600",
+            "target": "996600",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "996600",
+            "target": "999900",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "999900",
+            "target": "CC9900",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC9900",
+            "target": "CCCC00",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CCCC00",
+            "target": "FFCC00",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FFCC00",
+            "target": "FFFF00",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFFF00",
+            "target": "FFFF33",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFCC00",
+            "target": "FFCC33",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CCCC00",
+            "target": "CCCC33",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CCCC33",
+            "target": "CCFF33",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CCFF33",
+            "target": "CCFF66",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CCFF66",
+            "target": "FFFF66",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFFF66",
+            "target": "FFFF99",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC9900",
+            "target": "CC9933",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CC9933",
+            "target": "FF9933",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF9933",
+            "target": "FF9966",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF9966",
+            "target": "FFCC66",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFCC66",
+            "target": "FFCC99",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "999900",
+            "target": "999933",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "999933",
+            "target": "99CC33",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "99CC33",
+            "target": "99CC66",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "99CC66",
+            "target": "CCCC66",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CCCC66",
+            "target": "CCCC99",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CCCC99",
+            "target": "CCFF99",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CCFF99",
+            "target": "CCFFCC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CCFFCC",
+            "target": "FFFFCC",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFFFCC",
+            "target": "FFFFFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "99CC66",
+            "target": "99FF66",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "99FF66",
+            "target": "99FF99",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "996600",
+            "target": "996633",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "996633",
+            "target": "CC6633",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC6633",
+            "target": "CC6666",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CC6666",
+            "target": "FF6666",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF6666",
+            "target": "FF6699",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF6699",
+            "target": "FF9999",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF9999",
+            "target": "FF99CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF99CC",
+            "target": "FFCCCC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FFCCCC",
+            "target": "FFCCFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC6666",
+            "target": "CC9966",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC9966",
+            "target": "CC9999",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "666600",
+            "target": "666633",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "666633",
+            "target": "669933",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "669933",
+            "target": "669966",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "669966",
+            "target": "999966",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "999966",
+            "target": "999999",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "999999",
+            "target": "99CC99",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "99CC99",
+            "target": "99CCCC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "99CCCC",
+            "target": "CCCCCC",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CCCCCC",
+            "target": "CCCCFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CCCCFF",
+            "target": "CCFFFF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "99CCCC",
+            "target": "99FFCC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "99FFCC",
+            "target": "99FFFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "669966",
+            "target": "66CC66",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "66CC66",
+            "target": "66CC99",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "66CC99",
+            "target": "66FF99",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "66FF99",
+            "target": "66FFCC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "663300",
+            "target": "663333",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "663333",
+            "target": "993333",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "993333",
+            "target": "993366",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "993366",
+            "target": "CC3366",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC3366",
+            "target": "CC3399",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CC3399",
+            "target": "FF3399",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF3399",
+            "target": "FF33CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF33CC",
+            "target": "FF66CC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF66CC",
+            "target": "FF66FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF66FF",
+            "target": "FF99FF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC3399",
+            "target": "CC6699",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC6699",
+            "target": "CC66CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC66CC",
+            "target": "CC99CC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC99CC",
+            "target": "CC99FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "993366",
+            "target": "996666",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "996666",
+            "target": "996699",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "333300",
+            "target": "333333",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "333333",
+            "target": "336633",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "336633",
+            "target": "336666",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "336666",
+            "target": "666666",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "666666",
+            "target": "666699",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "666699",
+            "target": "669999",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "669999",
+            "target": "6699CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "6699CC",
+            "target": "9999CC",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "9999CC",
+            "target": "9999FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "9999FF",
+            "target": "99CCFF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "6699CC",
+            "target": "66CCCC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "66CCCC",
+            "target": "66CCFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "66CCFF",
+            "target": "66FFFF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "336666",
+            "target": "339966",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "339966",
+            "target": "339999",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "339999",
+            "target": "33CC99",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "33CC99",
+            "target": "33CCCC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "33CCCC",
+            "target": "33FFCC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "33FFCC",
+            "target": "33FFFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "330000",
+            "target": "330033",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "330033",
+            "target": "660033",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "660033",
+            "target": "660066",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "660066",
+            "target": "990066",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "990066",
+            "target": "990099",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "990099",
+            "target": "CC0099",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC0099",
+            "target": "CC00CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "RED_UP",
+            "source": "CC00CC",
+            "target": "FF00CC",
+            "color": "FF0000",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "FF00CC",
+            "target": "FF00FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "FF00FF",
+            "target": "FF33FF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC00CC",
+            "target": "CC33CC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "CC33CC",
+            "target": "CC33FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "CC33FF",
+            "target": "CC66FF",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "990099",
+            "target": "993399",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "993399",
+            "target": "9933CC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "9933CC",
+            "target": "9966CC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "9966CC",
+            "target": "9966FF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "660066",
+            "target": "663366",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "663366",
+            "target": "663399",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "000000",
+            "target": "003300",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "003300",
+            "target": "003333",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "003333",
+            "target": "006633",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "006633",
+            "target": "006666",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "006666",
+            "target": "009966",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "009966",
+            "target": "009999",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "009999",
+            "target": "00CC99",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "00CC99",
+            "target": "00CCCC",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "GREEN_UP",
+            "source": "00CCCC",
+            "target": "00FFCC",
+            "color": "00FF00",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "00FFCC",
+            "target": "00FFFF",
+            "color": "0000FF",
+            "strength": 1024
+        },
+        {
+            "name": "BLUE_UP",
+            "source": "000000",
+            "target": "000033",
+            "color": "0000FF",
+            "strength": 1024
+        }
+    ]
+}

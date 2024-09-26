@@ -1,0 +1,19 @@
+transformer:
+    Force:
+        source: csv
+        input: data
+        target: json
+        output: yada
+        column: Attribute
+        id: id
+    Cypher:
+        source: csv
+        input: data
+        target: py
+        output: yada
+        column: Property
+        id: id
+resource:
+    Graph:
+    Notebook:
+

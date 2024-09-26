@@ -1,0 +1,461 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "name": "1",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "2",
+            "name": "Bob",
+            "color": "5DB275"
+        },
+        {
+            "id": "3",
+            "name": "A1",
+            "color": "8800CE"
+        },
+        {
+            "id": "4",
+            "name": "4",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "5",
+            "name": "Cymbalta",
+            "color": "EC3113"
+        },
+        {
+            "id": "6",
+            "name": "Oncology",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "7",
+            "name": "7",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "8",
+            "name": "Stuart",
+            "color": "5DB275"
+        },
+        {
+            "id": "9",
+            "name": "B2",
+            "color": "8800CE"
+        },
+        {
+            "id": "10",
+            "name": "10",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "11",
+            "name": "Ultomoris",
+            "color": "EC3113"
+        },
+        {
+            "id": "12",
+            "name": "Pediatrics",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "13",
+            "name": "13",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "14",
+            "name": "Randy",
+            "color": "5DB275"
+        },
+        {
+            "id": "15",
+            "name": "C3",
+            "color": "8800CE"
+        },
+        {
+            "id": "16",
+            "name": "16",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "17",
+            "name": "Rexulti",
+            "color": "EC3113"
+        },
+        {
+            "id": "18",
+            "name": "Psychology",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "19",
+            "name": "19",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "20",
+            "name": "Eva",
+            "color": "5DB275"
+        },
+        {
+            "id": "21",
+            "name": "D4",
+            "color": "8800CE"
+        },
+        {
+            "id": "22",
+            "name": "22",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "23",
+            "name": "Skyrize",
+            "color": "EC3113"
+        },
+        {
+            "id": "24",
+            "name": "Orthopedics",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "25",
+            "name": "25",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "26",
+            "name": "Debbie",
+            "color": "5DB275"
+        },
+        {
+            "id": "27",
+            "name": "E5",
+            "color": "8800CE"
+        },
+        {
+            "id": "28",
+            "name": "28",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "29",
+            "name": "Quilpta",
+            "color": "EC3113"
+        },
+        {
+            "id": "30",
+            "name": "Layrngology",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "31",
+            "name": "31",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "32",
+            "name": "Frank",
+            "color": "5DB275"
+        },
+        {
+            "id": "33",
+            "name": "F6",
+            "color": "8800CE"
+        },
+        {
+            "id": "34",
+            "name": "34",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "35",
+            "name": "Neurtec",
+            "color": "EC3113"
+        },
+        {
+            "id": "36",
+            "name": "Radiolgy",
+            "color": "3F8BFA"
+        },
+        {
+            "id": "37",
+            "name": "37",
+            "color": "3C3C3C"
+        },
+        {
+            "id": "38",
+            "name": "Beth",
+            "color": "5DB275"
+        },
+        {
+            "id": "39",
+            "name": "G7",
+            "color": "8800CE"
+        },
+        {
+            "id": "40",
+            "name": "40",
+            "color": "B9B9B9"
+        },
+        {
+            "id": "41",
+            "name": "Ingreza",
+            "color": "EC3113"
+        },
+        {
+            "id": "42",
+            "name": "Hematology",
+            "color": "3F8BFA"
+        }
+    ],
+    "links": [
+        {
+            "name": "Examined",
+            "source": "2",
+            "target": "1",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "1",
+            "target": "3",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "2",
+            "target": "4",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "4",
+            "target": "5",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "6",
+            "target": "4",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "8",
+            "target": "7",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "7",
+            "target": "9",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "8",
+            "target": "10",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "10",
+            "target": "11",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "12",
+            "target": "10",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "14",
+            "target": "13",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "13",
+            "target": "15",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "14",
+            "target": "16",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "16",
+            "target": "17",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "18",
+            "target": "16",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "20",
+            "target": "19",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "19",
+            "target": "21",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "20",
+            "target": "22",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "22",
+            "target": "23",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "24",
+            "target": "22",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "26",
+            "target": "25",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "25",
+            "target": "27",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "26",
+            "target": "28",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "28",
+            "target": "29",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "30",
+            "target": "28",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "32",
+            "target": "31",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "31",
+            "target": "33",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "32",
+            "target": "34",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "34",
+            "target": "35",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "36",
+            "target": "34",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "38",
+            "target": "37",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "37",
+            "target": "39",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "38",
+            "target": "40",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "40",
+            "target": "41",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "42",
+            "target": "40",
+            "color": "CCCCCC",
+            "strength": "1024"
+        }
+    ]
+}

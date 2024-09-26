@@ -1,0 +1,8 @@
+﻿examination_id,patient_id,patient_nameFirst,diagnosis_id,diagnosis_code,prescription_id,product_id,product_name,practitioner_id,nucc_name
+1,2,Bob,3,A1,4,5,Cymbalta,6,Oncology
+7,8,Stuart,9,B2,10,11,Ultomoris,12,Pediatrics
+13,14,Randy,15,C3,16,17,Rexulti,18,Psychology
+19,20,Eva,21,D4,22,23,Skyrize,24,Orthopedics
+25,26,Debbie,27,E5,28,29,Quilpta,30,Layrngology
+31,32,Frank,33,F6,34,35,Neurtec,36,Radiolgy
+37,38,Beth,39,G7,40,41,Ingreza,42,Hematology

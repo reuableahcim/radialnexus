@@ -1,0 +1,14 @@
+name: journeys
+nodes:
+    Patient:
+        color: 5DB275
+    Practitioner:
+        color: 3F8BFA
+    Product:
+        color: EC3113
+    Diagnosis:    
+        color: 8800CE
+    Prescription:
+        color: B9B9B9
+    Examination:
+        color: 3C3C3C

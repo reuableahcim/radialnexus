@@ -1,0 +1,13 @@
+﻿File,Column,Type,Node,Color,Attribute,Property,Value,Transformation,Transforms,Source Node,Relationship,Target Node,Source ID,Target ID
+journeys,examination_id,str,Examination,3C3C3C,id,id,,copy,examination_id,,,,,
+journeys,examination_id,str,Examination,3C3C3C,name,name,,copy,examination_id,,,,,
+journeys,patient_id,str,Patient,5DB275,id,id,,copy,patient_id,Patient,Examined,Examination,patient_id,examination_id
+journeys,patient_nameFirst,str,Patient,5DB275,name,name,,copy,patient_nameFirst,,,,,
+journeys,diagnosis_id,str,Diagnosis,EC3113,id,id,,copy,diagnosis_id,Examination,Diagnosed,Diagnosis,examination_id,diagnosis_id
+journeys,diagnosis_code,str,Diagnosis,EC3113,name,name,,copy,diagnosis_code,,,,,
+journeys,prescription_id,str,Prescription,B9B9B9,id,id,,copy,prescription_id,Patient,Prescribed,Prescription,patient_id,prescription_id
+journeys,prescription_id,str,Prescription,B9B9B9,name,name,,copy,prescription_id,,,,,
+journeys,product_id,str,Product,3F8BFA,id,id,,copy,product_id,Prescription,Categorized,Product,prescription_id,product_id
+journeys,product_name,str,Product,3F8BFA,name,name,,copy,product_name,,,,,
+journeys,practitioner_id,str,Practitioner,8800CE,id,id,,copy,practitioner_id,Practitioner,Prescriber,Prescription,practitioner_id,prescription_id
+journeys,nucc_name,str,Practitioner,8800CE,name,name,,copy,nucc_name,,,,,

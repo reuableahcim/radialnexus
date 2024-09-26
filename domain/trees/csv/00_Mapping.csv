@@ -1,0 +1,15 @@
+﻿File,Column,Type,Node,Attribute,Color,Property,Value,Source Node,Relationship,Target Node,Source ID,Target ID
+Exceptional_Trees_On_Oahu,id,int,Tree,id,5DB275,id,3,Tree,IN_A,Location,id,name
+Exceptional_Trees_On_Oahu,common_name,str,Tree,name,5DB275,name,Baobab,,,,,
+Exceptional_Trees_On_Oahu,height,ft,Tree,,5DB275,height,32.5-36,,,,,
+Exceptional_Trees_On_Oahu,diameter,in,Tree,,5DB275,diameter,52-112,,,,,
+Exceptional_Trees_On_Oahu,circumference,in,Tree,,5DB275,circumference,13.7-29.4,,,,,
+Exceptional_Trees_On_Oahu,information,str,Tree,desc,5DB275,description,Located along the river,,,,,
+Exceptional_Trees_On_Oahu,species_code,str,Species,id,EC3113,id,ADDI3,Tree,IS_A,Species,id,species_code
+Exceptional_Trees_On_Oahu,scientific_name,str,Species,name,EC3113,name,Adansonia digitata,,,,,
+Exceptional_Trees_On_Oahu,name,str,Location,id,3F8BFA,id,"20,140,004",,,,,
+Exceptional_Trees_On_Oahu,location,str,Location,name,3F8BFA,name,Ala Moana Beach Park,,,,,
+Exceptional_Trees_On_Oahu,latitude,lat,Location,,3F8BFA,lat,21.29,,,,,
+Exceptional_Trees_On_Oahu,longitude,long,Location,,3F8BFA,long,-157.85,,,,,
+Exceptional_Trees_On_Oahu,island_abbv,str,Island,id,8800CE,id,B,Location,ON_A,Island,name,island_abbv
+Exceptional_Trees_On_Oahu,island_name,str,Island,name,8800CE,name,Hawaii,,,,,

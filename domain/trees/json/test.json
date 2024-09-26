@@ -1,0 +1,67 @@
+{
+    "nodes": [
+        {
+            "id": "1181",
+            "name": "'Ohi'a Lehua",
+            "desc": "No access due to current lava situation as of March 2015",
+            "color": "5DB275"
+        },
+        {
+            "id": "MEPO5",
+            "name": "Metrosideros polymorpha",
+            "color": "EC3113"
+        },
+        {
+            "id": "20141131",
+            "name": "Kaneohe Homesteads, Pahoa",
+            "color": "3F8BFA"
+		},
+        {
+            "id": "B",
+            "name": "Hawaii",
+            "color": "8800CE"
+        },
+        {
+            "id": "1177",
+            "name": "'Ohi'a Lehua",
+            "desc": "Off of the path up to the waterfall.",
+            "color": "5DB275"
+        },
+        {
+            "id": "20141125",
+            "name": "Rainbow Falls Park, Hilo",
+            "color": "3F8BFA"
+        }],
+    "links": [
+        {
+            "name": "IN_A",
+            "source": "1181",
+            "target": "20141131"
+        },
+        {
+            "name": "IS_A",
+            "source": "1181",
+            "target": "MEPO5"
+        },
+        {
+            "name": "ON_A",
+            "source": "20141131",
+            "target": "B"
+        },
+        {
+            "name": "IN_A",
+            "source": "1177",
+            "target": "20141125"
+        },
+        {
+            "name": "IS_A",
+            "source": "1177",
+            "target": "MEPO5"
+        },
+        {
+            "name": "ON_A",
+            "source": "20141125",
+            "target": "B"
+		}]
+}
+		

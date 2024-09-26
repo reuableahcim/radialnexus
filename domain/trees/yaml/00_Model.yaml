@@ -1,0 +1,10 @@
+name: trees
+nodes:
+    Tree:
+        color: 5DB275
+    Location:
+        color: 3F8BFA
+    Species:
+        color: EC3113
+    Island:    
+        color: 8800CE

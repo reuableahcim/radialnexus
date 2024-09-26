@@ -1,0 +1,4 @@
+﻿File,Column,Type,Node,Attribute,Property,Value,Transformation,Transforms,Source Node,Relationship,Target Node,Source ID,Target ID
+colors,id,str,Color,,id,000033,copy,id,,,,,
+colors,name,str,Color,,name,000033,copy,name,,,,,
+colors,color,str,Color,,color,000033,copy,color,,,,,

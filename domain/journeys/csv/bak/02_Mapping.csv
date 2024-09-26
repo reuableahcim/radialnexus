@@ -1,0 +1,7 @@
+﻿File,Column,Type,Node,Attribute,Color,Property,Value,Transformation,Transforms,Source Node,Relationship,Target Node,Source ID,Target ID
+journeys,examination_id,str,Examination,id,FFFFFF,id,,copy,id,,,,,
+journeys,patient_id,str,Patient,id,5DB275,id,,copy,id,Patient,HAD_A,Examination,patient_id,examination_id
+journeys,diagnosis_id,str,Diagnosis,id,EC3113,id,,copy,id,Examination,HAD_A,Diagnosis,examination_id,diagnosis_id
+journeys,prescription_id,str,Prescription,id,FFFFFF,id,,copy,id,Patient,HAD_A,Prescription,patient_id,prescription_id
+journeys,product_id,str,Product,id,3F8BFA,id,,copy,id,Prescription,FOR_A,Product,prescription_id,product_id
+journeys,practitioner_id,str,Practitioner,id,8800CE,id,,copy,id,Practitioner,HAD_A,Prescription,practitioner_id,prescription_id

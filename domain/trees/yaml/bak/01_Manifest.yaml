@@ -1,0 +1,5 @@
+name: trees
+source: csv
+target: cy
+input: data
+output: yada
