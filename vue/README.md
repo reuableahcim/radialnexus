@@ -31,7 +31,6 @@ npm run serve
 Access the app at http://localhost:8080.
 
 
-
 ## Project setup
 ```
 npm install
