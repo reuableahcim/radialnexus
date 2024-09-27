@@ -82,6 +82,7 @@ from unidecode import unidecode
 
 # Root paths and set types for configuration and mapping files
 ROOT_PATH = "../"
+FORCE_PATH = "../vue/public/"
 DOMAIN_PITH = "domain"
 MANIFEST_TYPE = "yaml"
 MODEL_TYPE = "yaml"
@@ -380,7 +381,7 @@ class DictFile(File):
         pith = self.pith
         dict_file_path = self.path
         Esse.printf("____________DictFile: Generate {pith}: {dict_file_path}____________\n", GREEN, pith=pith, dict_file_path=dict_file_path)  
-        Esse.printf("\n\n{map_dict}", RED, map_dict=map_dict)
+        # Esse.printf("\n\n{map_dict}", RED, map_dict=map_dict)
         with open(dict_file_path, 'w') as  dict_file:
             Esse.printf("Generating...", RED)
             json.dump(map_dict, dict_file, indent=4)
@@ -547,6 +548,7 @@ class Force(Transformer):
                
         source_file_path = manifest.source_file_path
         target_file_path = manifest.target_file_path
+        force_file_path = manifest.force_file_path
         
         Esse.printf("____________Force: generate____________\n", GREEN)
         Esse.printf("Source: {source_file_path}\n", YELLOW, source_file_path=source_file_path)       
@@ -554,12 +556,13 @@ class Force(Transformer):
         Esse.printf("Dictionaries:\n", YELLOW)             
         Esse.printf("NODES\n{node_dict}", GREEN, node_dict=node_dict)
         Esse.printf("\nEDGES\n{edge_dict}", BLUE, edge_dict=edge_dict)
-        Esse.printf("Target: {target_file_path}\n", YELLOW, target_file_path=target_file_path)       
+        Esse.printf("\nTarget: {target_file_path}\n", YELLOW, target_file_path=target_file_path)       
         
         map_dict = {"nodes": node_dict, "links": edge_dict}     
         # DictFile(target_file_path, file_name).generate(map_dict) 
         DictFile(target_file_path).generate(map_dict)
-                   
+        DictFile(force_file_path).generate(map_dict)
+                        
 # Cypher Transformer Class
 class Cypher(Transformer):
 
@@ -1067,6 +1070,7 @@ class Manifest(Esse):
         root_path = manifestation.root_path                  # ../
         domain_name = manifestation.name
         domain_path = manifestation.domain_path              # ../domain/trees
+        force_domain_path = manifestation.force_domain_path  # ../vue/public/domain
         transformer_class = manifestation.transformer_class  # Force
         source_file_pith = manifestation.source_file_pith    # Exceptional_Trees 
 
@@ -1168,6 +1172,12 @@ class Manifest(Esse):
         # ../domain/trees/py/trees.py         
         target_file_path = os.path.join(target_directory_path, target_file_name)
         self.target_file_path = target_file_path
+        
+        # Force Path
+        # ../vue/public/domain
+        # ../vue/public/domain/trees.json
+        force_file_path = os.path.join(force_domain_path, target_file_name)
+        self.force_file_path = force_file_path
 
         Esse.printf("Data: {data_directory_path}  Source: {source_file_path}  Output: {target_directory_path}  Target: {target_file_path}\n", BLUE, source_file_path=source_file_path, data_directory_path=data_directory_path, target_directory_path=target_directory_path, target_file_path=target_file_path)
         DF.printf(source_file_pith , df)
@@ -1180,6 +1190,7 @@ class Manifestation(Esse):
         self.root_path = ROOT_PATH                                      # ../
         self.domains_path = os.path.join(ROOT_PATH, DOMAIN_PITH)        # ../domain
         self.domain_path = os.path.join(self.domains_path, domain_name) # ../domain/trees
+        self.force_domain_path = os.path.join(FORCE_PATH, DOMAIN_PITH)  # ../vue/public/domain
         self.resource_class = resource_class                            # Graph
         self.transformer_class = transformer_class                      # Force
         self.source_file_pith = source_file_pith                        # Exceptional_Trees

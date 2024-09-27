@@ -91,6 +91,16 @@
             "name": "17"
         },
         {
+            "id": "102",
+            "color": "B9B9B9",
+            "name": "102"
+        },
+        {
+            "id": "23",
+            "color": "EC3113",
+            "name": "Skyrize"
+        },
+        {
             "id": "19",
             "color": "3C3C3C",
             "name": "19"
@@ -109,11 +119,6 @@
             "id": "22",
             "color": "B9B9B9",
             "name": "22"
-        },
-        {
-            "id": "23",
-            "color": "EC3113",
-            "name": "Skyrize"
         },
         {
             "id": "24",
@@ -349,6 +354,41 @@
             "name": "Prescriber",
             "source": "18",
             "target": "17",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Examined",
+            "source": "14",
+            "target": "13",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Diagnosed",
+            "source": "13",
+            "target": "15",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescribed",
+            "source": "14",
+            "target": "102",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Categorized",
+            "source": "102",
+            "target": "23",
+            "color": "CCCCCC",
+            "strength": "1024"
+        },
+        {
+            "name": "Prescriber",
+            "source": "18",
+            "target": "102",
             "color": "CCCCCC",
             "strength": "1024"
         },
