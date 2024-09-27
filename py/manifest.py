@@ -380,6 +380,7 @@ class DictFile(File):
         pith = self.pith
         dict_file_path = self.path
         Esse.printf("____________DictFile: Generate {pith}: {dict_file_path}____________\n", GREEN, pith=pith, dict_file_path=dict_file_path)  
+        Esse.printf("\n\n{map_dict}", RED, map_dict=map_dict)
         with open(dict_file_path, 'w') as  dict_file:
             Esse.printf("Generating...", RED)
             json.dump(map_dict, dict_file, indent=4)
@@ -404,7 +405,7 @@ class NeoModel(Transformer):
 
 # 3D-Force Graph Transformer Class
 class Force(Transformer):
-    # COLUMN = 'Attribute'
+    IDS = set()
     
     def __init__(self, manifestation):
         super().__init__(manifestation)
@@ -414,6 +415,26 @@ class Force(Transformer):
     def id(self, value):
         value = value.replace(',','')
         return value
+
+    def new_id(self, i):
+        # Check if the ID has already been seen
+        if i in self.IDS:
+            return False  # Return None if the ID has been seen before
+        else:
+            # Add the new ID to the set and return the ID
+            self.IDS.add(i)
+            return True
+                
+    # def id(self, value):
+    #     # Still not sure why was doing this...
+    #     # value = value.replace(',','')
+    #     i = value
+    #     if i in self.IDS:
+    #         return None  # Return None if the ID has been seen before
+    #     else:
+    #         # Add the new ID to the set and return the ID
+    #         self.IDS.add(i)
+    #         return i  
         
     def node(self, index, row, mappings):
         Esse.printf("____________Force: node____________\n", GREEN)
@@ -433,23 +454,26 @@ class Force(Transformer):
         for node_name, node_df in mappings.items():
             node_dict = {}
             #color = '95CDEA'
+            Esse.printf("\n{node_name}", RED, node_name=node_name)
             for _, mapping_row in node_df.iterrows():
                 # Always Column (CSV File)
                 column = mapping_row[SOURCE_COLUMN]
-                node_name = mapping_row['Node']
-                attribute = mapping_row[target_column]                
-                color = model.nodes['Nodes'][node_name]['color']
-                display_color = color
-                # Esse.printf("{node_name}: {attribute} {display_color}", BLUE, node_name=node_name, attribute=attribute, display_color=display_color)
                 if pd.notna(row[column]):
+                    name = mapping_row['Node']
+                    attribute = mapping_row[target_column]                
                     value = Esse.uniexcode(str(row[column]))
-                    if attribute == 'id':
-                        value = self.id(value)
                     node_dict[attribute] = value
+                    color = model.nodes['Nodes'][name]['color']
+                    node_dict['color'] = color
+                    Esse.printf("{name}: {attribute} ({value})", BLUE, name=name, attribute=attribute, value=value)
             if node_dict:
-                node_dict['color'] = color
-                Esse.printf("{node_dict}", BLUE, node_dict=node_dict)
-                node_dicts.append(node_dict)
+                node_id = node_dict['id']
+                if self.new_id(node_id):
+                    Esse.printf("{node_id}: {node_dict}\n", BLUE, node_id=node_id, node_dict=node_dict)
+                    node_dicts.append(node_dict)
+                else:
+                    Esse.printf("{node_id}: SEEN\n", YELLOW, node_id=node_id)
+                     
         return node_dicts
 
     # Integrant called from Graph transform method for aspect: nodes
@@ -492,8 +516,9 @@ class Force(Transformer):
                         
             if not pd.isna(series[source_id]) and not pd.isna(series[target_id]):            
                 edge_dict['name'] = relationship
+                # OK, not sure but necessary otherwise json.dump will spit out null values
                 edge_dict['source'] = self.id(str(series[source_id]))
-                edge_dict['target'] = self.id(str(series[target_id]))
+                edge_dict['target'] = self.id(str(series[target_id]))           
                 edge_dict['color'] = EDGE_COLOR
                 edge_dict['strength'] = EDGE_STRENGTH
  
@@ -510,8 +535,9 @@ class Force(Transformer):
         Esse.printf("\nDATA\n{data}", RED, data=data)
         code = ""
         code = [item for index, row in data.iterrows() for item in self.edge(index, row, mappings)]
-        dict_list = code
-        Esse.printf("\nEDGES\n{dict_list}", BLUE, dict_list=dict_list)
+        # dict_list = code
+        # Esse.printf("\nEDGES\n{dict_list}", BLUE, dict_list=dict_list)
+        Esse.printf("\nEDGES\n{code}", BLUE, code=code)
         return code    
 
     def generate(self, node_dict, edge_dict):
